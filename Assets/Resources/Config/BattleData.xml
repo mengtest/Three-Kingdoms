@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 被2011 rel. 2 sp1 (wangxm) 使用XMLSpy vxuxian编辑的 (http://www.altova.com) by -->
+<!-- BattleData 战斗数据配置表  SceneId: 场景Id; Name: 名字-->
+<!-- WarriorSpawnPos 神将出生点-->
+<!-- AttackNpcWaveData 怪物孵化时间 SpawnTime： 孵化时间-->
+<!-- AttackNpcSpawnData 怪物数据 AttackNpcID: 战斗NPCId-->
+<BattleDatas>
+	<BattleData ID="1001" SceneId="4" Name="demo2_scene01">
+		<WarriorSpawnData>
+			<WarriorSpawnPos PosX="-0.1623052" PosY="0.02135116" PosZ="-5.320072" Orient="0.116614"/>
+			<WarriorSpawnPos PosX="-1.987803" PosY="0.09671783" PosZ="-3.850435" Orient="-0.4322833"/>
+			<WarriorSpawnPos PosX="-0.04994535" PosY="0.007971253" PosZ="-2.884767" Orient="0.116614"/>
+			<WarriorSpawnPos PosX="2.074672" PosY="0.09671783" PosZ="-3.789061" Orient="0.9035032"/>
+		</WarriorSpawnData>
+		<AttackNpcWaveData SpawnTime="1.0 ">
+			<AttackNpcSpawnData ID="1" AttackNpcID="1001" PosX="-9.524367" PosY="0.09671783" PosZ="0.320955" Orient="1.684658"/>
+			<AttackNpcSpawnData ID="2" AttackNpcID="1001" PosX="10.56226" PosY="-0.02356052" PosZ="-0.0093143" Orient="-1.413297"/>
+			<AttackNpcSpawnData ID="3" AttackNpcID="1001" PosX="-5.235768" PosY="0.07274628" PosZ="5.659371" Orient="-3.589955"/>
+			<AttackNpcSpawnData ID="4" AttackNpcID="1001" PosX="5.363085" PosY="0.05725384" PosZ="5.743293" Orient="-2.649468"/>
+		</AttackNpcWaveData>
+		<AttackNpcWaveData SpawnTime="5.0 ">
+			<AttackNpcSpawnData ID="5" AttackNpcID="1001" PosX="-5.235768" PosY="0.07274628" PosZ="5.659371" Orient="-3.589955"/>
+			<AttackNpcSpawnData ID="6" AttackNpcID="1001" PosX="10.56226" PosY="-0.02356052" PosZ="-0.0093143" Orient="-1.413297"/>
+		</AttackNpcWaveData>
+		<AttackNpcWaveData SpawnTime="9.0 ">
+			<AttackNpcSpawnData ID="7" AttackNpcID="1002" PosX="4.363085" PosY="0.05725384" PosZ="5.743293" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="8" AttackNpcID="1001" PosX="-9.524367" PosY="0.09671783" PosZ="0.320955" Orient="1.684658"/>
+		</AttackNpcWaveData>
+		<AttackNpcWaveData SpawnTime="11.0 ">
+			<AttackNpcSpawnData ID="9" AttackNpcID="1001" PosX="10.56226" PosY="-0.02356052" PosZ="-0.0093143" Orient="-1.413297"/>
+			<AttackNpcSpawnData ID="10" AttackNpcID="1001" PosX="-12.36799" PosY="0.02632642" PosZ="-5.136057" Orient="1.092332"/>
+		</AttackNpcWaveData>
+		<AttackNpcWaveData SpawnTime="14.0 ">
+			<AttackNpcSpawnData ID="11" AttackNpcID="1001" PosX="-12.36799" PosY="0.02632642" PosZ="-5.136057" Orient="1.092332"/>
+			<AttackNpcSpawnData ID="12" AttackNpcID="1002" PosX="4.363085" PosY="0.05725384" PosZ="5.743293" Orient="-2.649468"/>
+		</AttackNpcWaveData>
+		<AttackNpcWaveData SpawnTime="17.0 ">
+			<AttackNpcSpawnData ID="13" AttackNpcID="1003" PosX="10.56226" PosY="-0.02356052" PosZ="-0.0093143" Orient="-1.413297"/>
+			<AttackNpcSpawnData ID="14" AttackNpcID="1001" PosX="-12.36799" PosY="0.02632642" PosZ="-5.136057" Orient="1.092332"/>
+		</AttackNpcWaveData>
+		<AttackNpcWaveData SpawnTime="20.0 ">
+			<AttackNpcSpawnData ID="15" AttackNpcID="1001" PosX="-9.524367" PosY="0.09671783" PosZ="0.320955" Orient="1.684658"/>
+			<AttackNpcSpawnData ID="16" AttackNpcID="1001" PosX="-12.36799" PosY="0.02632642" PosZ="-5.136057" Orient="1.092332"/>
+		</AttackNpcWaveData>
+	</BattleData>
+	<BattleData ID="1002" SceneId="5" Name="demo2_scene02">
+		<WarriorSpawnData>
+			<WarriorSpawnPos PosX="-0.1623052" PosY="0.02135116" PosZ="-5.320072" Orient="0.116614"/>
+			<WarriorSpawnPos PosX="-1.987803" PosY="0.09671783" PosZ="-3.850435" Orient="-0.4322833"/>
+			<WarriorSpawnPos PosX="-0.04994535" PosY="0.007971253" PosZ="-2.884767" Orient="0.116614"/>
+			<WarriorSpawnPos PosX="2.074672" PosY="0.09671783" PosZ="-3.789061" Orient="0.9035032"/>
+		</WarriorSpawnData>
+		<AttackNpcWaveData SpawnTime="1.0 ">
+			<AttackNpcSpawnData ID="1" AttackNpcID="1001" PosX="-9.524367" PosY="0.09671783" PosZ="0.320955" Orient="1.684658"/>
+			<AttackNpcSpawnData ID="2" AttackNpcID="1001" PosX="10.56226" PosY="-0.02356052" PosZ="-0.0093143" Orient="-1.413297"/>
+			<AttackNpcSpawnData ID="3" AttackNpcID="1001" PosX="-5.235768" PosY="0.07274628" PosZ="5.659371" Orient="-3.589955"/>
+			<AttackNpcSpawnData ID="4" AttackNpcID="1001" PosX="5.363085" PosY="0.05725384" PosZ="5.743293" Orient="-2.649468"/>
+		</AttackNpcWaveData>
+		<AttackNpcWaveData SpawnTime="5.0 ">
+			<AttackNpcSpawnData ID="5" AttackNpcID="1001" PosX="-5.235768" PosY="0.07274628" PosZ="5.659371" Orient="-3.589955"/>
+			<AttackNpcSpawnData ID="6" AttackNpcID="1001" PosX="10.56226" PosY="-0.02356052" PosZ="-0.0093143" Orient="-1.413297"/>
+		</AttackNpcWaveData>
+		<AttackNpcWaveData SpawnTime="9.0 ">
+			<AttackNpcSpawnData ID="7" AttackNpcID="1002" PosX="4.363085" PosY="0.05725384" PosZ="5.743293" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="8" AttackNpcID="1001" PosX="-9.524367" PosY="0.09671783" PosZ="0.320955" Orient="1.684658"/>
+		</AttackNpcWaveData>
+		<AttackNpcWaveData SpawnTime="11.0 ">
+			<AttackNpcSpawnData ID="9" AttackNpcID="1001" PosX="10.56226" PosY="-0.02356052" PosZ="-0.0093143" Orient="-1.413297"/>
+			<AttackNpcSpawnData ID="10" AttackNpcID="1001" PosX="-12.36799" PosY="0.02632642" PosZ="-5.136057" Orient="1.092332"/>
+		</AttackNpcWaveData>
+		<AttackNpcWaveData SpawnTime="14.0 ">
+			<AttackNpcSpawnData ID="11" AttackNpcID="1002" PosX="-12.36799" PosY="0.02632642" PosZ="-5.136057" Orient="1.092332"/>
+			<AttackNpcSpawnData ID="12" AttackNpcID="1002" PosX="4.363085" PosY="0.05725384" PosZ="5.743293" Orient="-2.649468"/>
+		</AttackNpcWaveData>
+		<AttackNpcWaveData SpawnTime="17.0 ">
+			<AttackNpcSpawnData ID="13" AttackNpcID="1003" PosX="10.56226" PosY="-0.02356052" PosZ="-0.0093143" Orient="-1.413297"/>
+			<AttackNpcSpawnData ID="14" AttackNpcID="1003" PosX="-12.36799" PosY="0.02632642" PosZ="-5.136057" Orient="1.092332"/>
+		</AttackNpcWaveData>
+		<AttackNpcWaveData SpawnTime="20.0 ">
+			<AttackNpcSpawnData ID="15" AttackNpcID="1002" PosX="-9.524367" PosY="0.09671783" PosZ="0.320955" Orient="1.684658"/>
+			<AttackNpcSpawnData ID="16" AttackNpcID="1002" PosX="-12.36799" PosY="0.02632642" PosZ="-5.136057" Orient="1.092332"/>
+		</AttackNpcWaveData>
+	</BattleData>
+	<BattleData ID="1003" SceneId="6" Name="demo2_scene03">
+		<WarriorSpawnData>
+			<WarriorSpawnPos PosX="-0.1623052" PosY="0.02135116" PosZ="-5.320072" Orient="0.116614"/>
+			<WarriorSpawnPos PosX="-1.987803" PosY="0.09671783" PosZ="-3.850435" Orient="-0.4322833"/>
+			<WarriorSpawnPos PosX="-0.04994535" PosY="0.007971253" PosZ="-2.884767" Orient="0.116614"/>
+			<WarriorSpawnPos PosX="2.074672" PosY="0.09671783" PosZ="-3.789061" Orient="0.9035032"/>
+		</WarriorSpawnData>
+		<AttackNpcWaveData SpawnTime="1.0 ">
+			<AttackNpcSpawnData ID="1" AttackNpcID="1001" PosX="-9.524367" PosY="0.09671783" PosZ="0.320955" Orient="1.684658"/>
+			<AttackNpcSpawnData ID="2" AttackNpcID="1001" PosX="10.56226" PosY="-0.02356052" PosZ="-0.0093143" Orient="-1.413297"/>
+			<AttackNpcSpawnData ID="3" AttackNpcID="1001" PosX="-5.235768" PosY="0.07274628" PosZ="5.659371" Orient="-3.589955"/>
+			<AttackNpcSpawnData ID="4" AttackNpcID="1001" PosX="5.363085" PosY="0.05725384" PosZ="5.743293" Orient="-2.649468"/>
+		</AttackNpcWaveData>
+		<AttackNpcWaveData SpawnTime="5.0 ">
+			<AttackNpcSpawnData ID="5" AttackNpcID="1001" PosX="-5.235768" PosY="0.07274628" PosZ="5.659371" Orient="-3.589955"/>
+			<AttackNpcSpawnData ID="6" AttackNpcID="1001" PosX="10.56226" PosY="-0.02356052" PosZ="-0.0093143" Orient="-1.413297"/>
+		</AttackNpcWaveData>
+		<AttackNpcWaveData SpawnTime="9.0 ">
+			<AttackNpcSpawnData ID="7" AttackNpcID="1002" PosX="4.363085" PosY="0.05725384" PosZ="5.743293" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="8" AttackNpcID="1001" PosX="-9.524367" PosY="0.09671783" PosZ="0.320955" Orient="1.684658"/>
+		</AttackNpcWaveData>
+		<AttackNpcWaveData SpawnTime="13.0 ">
+			<AttackNpcSpawnData ID="9" AttackNpcID="2001" PosX="-0.3683095" PosY="0.0005277233" PosZ="4.042366" Orient="3.033778"/>
+		</AttackNpcWaveData>
+		<AttackNpcWaveData SpawnTime="15.0 ">
+			<AttackNpcSpawnData ID="10" AttackNpcID="1011" PosX="-9.524367" PosY="0.09671783" PosZ="0.320955" Orient="1.684658"/>
+			<AttackNpcSpawnData ID="11" AttackNpcID="1011" PosX="10.56226" PosY="-0.02356052" PosZ="-0.0093143" Orient="-1.413297"/>
+			<AttackNpcSpawnData ID="12" AttackNpcID="1011" PosX="-5.235768" PosY="0.07274628" PosZ="5.659371" Orient="-3.589955"/>
+			<AttackNpcSpawnData ID="13" AttackNpcID="1011" PosX="5.363085" PosY="0.05725384" PosZ="5.743293" Orient="-2.649468"/>
+		</AttackNpcWaveData>
+	</BattleData>
+	<BattleData ID="1004" SceneId="9" Name="demo03_scene02">
+		<AttackNpcWaveData SpawnTime="0 ">
+			<AttackNpcSpawnData ID="1" AttackNpcID="1011" PosX="7.778465" PosY="0.008469493" PosZ="0.596248" Orient="1.684658" PatrolRadius="2"/>
+			<AttackNpcSpawnData ID="3" AttackNpcID="1011" PosX="8.408018" PosY="0.008467825" PosZ="-4.910202" Orient="-3.589955" PatrolRadius="2"/>
+			<AttackNpcSpawnData ID="4" AttackNpcID="1011" PosX="3.121374" PosY="0.00846755" PosZ="-5.815162" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="6" AttackNpcID="1011" PosX="2.109792" PosY="0.008469683" PosZ="1.223142" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="7" AttackNpcID="1001" PosX="-6.230782" PosY="0.00846863" PosZ="-2.253186" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="8" AttackNpcID="1001" PosX="-5.966649" PosY="0.008470237" PosZ="3.052948" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="9" AttackNpcID="2001" PosX="-7.268028" PosY="0.008469486" PosZ="0.573611" Orient="-2.649468" AI="1001"/>
+		</AttackNpcWaveData>
+	</BattleData>
+	<BattleData ID="1005" SceneId="10" Name="demo03_scene01">
+		<WarriorSpawnData>
+			<WarriorSpawnPos PosX="9.41246" PosY="-1.658113" PosZ="-5.250408" Orient="0.116614"/>
+			<WarriorSpawnPos PosX="8.920866" PosY="-1.658112" PosZ="-2.96997" Orient="-0.4322833"/>
+			<WarriorSpawnPos PosX="8.548529" PosY="-1.658111" PosZ="-1.063237" Orient="0.116614"/>
+			<WarriorSpawnPos PosX="8.382783" PosY="-1.658111" PosZ="0.6694112" Orient="0.9035032"/>
+		</WarriorSpawnData>
+		<AttackNpcWaveData SpawnTime="0 ">
+			<AttackNpcSpawnData ID="1" AttackNpcID="1011" PosX="-2.351138" PosY="-1.658113" PosZ="-7.153721" Orient="1.684658" PatrolRadius="2"/>
+			<AttackNpcSpawnData ID="2" AttackNpcID="1011" PosX="-3.226723" PosY="-1.658111" PosZ="0.1648796" Orient="-3.589955" PatrolRadius="2"/>
+			<AttackNpcSpawnData ID="3" AttackNpcID="1011" PosX="-8.225671" PosY="-1.658113" PosZ="-5.64272" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="4" AttackNpcID="1011" PosX="-7.253178" PosY="-1.658111" PosZ="-0.9427521" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="5" AttackNpcID="1001" PosX="2.203541" PosY="-1.658112" PosZ="-4.004514" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="6" AttackNpcID="1001" PosX="1.362718" PosY="-1.658111" PosZ="-0.6470195" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="7" AttackNpcID="1001" PosX="5.975677" PosY="-1.658112" PosZ="-4.441717" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="8" AttackNpcID="1001" PosX="5.698499" PosY="-1.658111" PosZ="-0.7359257" Orient="-2.649468"/>
+		</AttackNpcWaveData>
+	</BattleData>
+	<BattleData ID="1006" SceneId="4" Name="demo2_scene01">
+		<WarriorSpawnData>
+			<WarriorSpawnPos PosX="5.808798" PosY="-1.658111" PosZ="1.904284" Orient="-1.442412"/>
+			<WarriorSpawnPos PosX="6.217396" PosY="-1.658111" PosZ="-0.3038492" Orient="-1.442412"/>
+			<WarriorSpawnPos PosX="6.634253" PosY="-1.658112" PosZ="-2.442843" Orient="-1.442412"/>
+			<WarriorSpawnPos PosX="7.189016" PosY="-1.658112" PosZ="-4.97124" Orient="-1.442412"/>
+		</WarriorSpawnData>
+		<AttackNpcWaveData SpawnTime="0 ">
+			<AttackNpcSpawnData ID="1" AttackNpcID="1001" PosX="1.408496" PosY="-1.658112" PosZ="-2.460572" Orient="1.478988"/>
+			<AttackNpcSpawnData ID="2" AttackNpcID="1001" PosX="-0.3691958" PosY="-1.656843" PosZ="-0.1649659" Orient="2.005089"/>
+			<AttackNpcSpawnData ID="3" AttackNpcID="1001" PosX="-0.8201525" PosY="-1.658113" PosZ="-5.95815" Orient="0.9587162"/>
+			<AttackNpcSpawnData ID="4" AttackNpcID="1011" PosX="-3.977987" PosY="-1.658111" PosZ="0.1541878" Orient="1.587664"/>
+			<AttackNpcSpawnData ID="5" AttackNpcID="1011" PosX="-4.729827" PosY="-1.658112" PosZ="-3.590895" Orient="1.532062"/>
+		</AttackNpcWaveData>
+	</BattleData>
+	<BattleData ID="1007" SceneId="9" Name="demo03_scene02">
+		<WarriorSpawnData>
+			<WarriorSpawnPos PosX="5.488997" PosY="0.007972598" PosZ="1.354347" Orient="-1.396761"/>
+			<WarriorSpawnPos PosX="5.880111" PosY="0.007971819" PosZ="-0.70229695" Orient="-1.396761"/>
+			<WarriorSpawnPos PosX="6.339698" PosY="0.007971097" PosZ="-3.034046" Orient="-1.396761"/>
+			<WarriorSpawnPos PosX="7.814543" PosY="0.007971832" PosZ="-1.156003" Orient="-1.396761"/>
+		</WarriorSpawnData>
+		<AttackNpcWaveData SpawnTime="0 ">
+			<AttackNpcSpawnData ID="1" AttackNpcID="1011" PosX="6.331746" PosY="0.02197798" PosZ="-3.390051" Orient="1.438853"/>
+			<AttackNpcSpawnData ID="2" AttackNpcID="1011" PosX="7.576781" PosY="0.008469237" PosZ="-0.2520649" Orient="1.398792"/>
+			<AttackNpcSpawnData ID="3" AttackNpcID="1011" PosX="9.527431" PosY="0.008467635" PosZ="-5.535412" Orient="1.68413"/>
+			<AttackNpcSpawnData ID="4" AttackNpcID="1004" PosX="2.837833" PosY="0.008467532" PosZ="-5.874592" Orient="3.083316"/>
+			<AttackNpcSpawnData ID="5" AttackNpcID="1004" PosX="0.3365211" PosY="0.008467564" PosZ="-2.31842" Orient="0.981511"/>
+			<AttackNpcSpawnData ID="6" AttackNpcID="1001" PosX="-8.56923" PosY="0.02197798" PosZ="-4.604449" Orient="1.832863"/>
+			<AttackNpcSpawnData ID="7" AttackNpcID="1001" PosX="-6.365105" PosY="0.02197798" PosZ="-4.902978" Orient="4.912885"/>
+			<AttackNpcSpawnData ID="8" AttackNpcID="1001" PosX="-3.821526" PosY="0.008468419" PosZ="-2.946024" Orient="5.718595"/>
+			<AttackNpcSpawnData ID="9" AttackNpcID="1001" PosX="-3.498662" PosY="0.02197798" PosZ="-0.1163623" Orient="1.369477"/>
+			<AttackNpcSpawnData ID="10" AttackNpcID="1001" PosX="-3.216222" PosY="0.02197798" PosZ="1.642153" Orient="1.836961"/>
+			<AttackNpcSpawnData ID="11" AttackNpcID="1011" PosX="-5.812016" PosY="0.02197798" PosZ="0.8440738" Orient="1.79971"/>
+		</AttackNpcWaveData>
+	</BattleData>
+	<BattleData ID="1008" SceneId="13" Name="demo03_wartest03">
+		<WarriorSpawnData>
+			<WarriorSpawnPos PosX="6.442993" PosY="0.007970572" PosZ="-4.927063" Orient="-1.34279"/>
+			<WarriorSpawnPos PosX="6.082842" PosY="0.007971409" PosZ="-2.192044" Orient="-1.34279"/>
+			<WarriorSpawnPos PosX="5.944954" PosY="0.007972117" PosZ="0.1401517" Orient="-1.34279"/>
+			<WarriorSpawnPos PosX="5.826624" PosY="0.007972724" PosZ="2.141468" Orient="-1.34279"/>
+		</WarriorSpawnData>
+		<AttackNpcWaveData SpawnTime="0 ">
+			<AttackNpcSpawnData ID="1" AttackNpcID="1001" PosX="1.706878" PosY="0.007971406" PosZ="-1.981546" Orient="1.561064"/>
+			<AttackNpcSpawnData ID="2" AttackNpcID="1011" PosX="-0.4766135" PosY="0.007971443" PosZ="-2.075232" Orient="1.561064"/>
+			<AttackNpcSpawnData ID="3" AttackNpcID="1011" PosX="-2.448423" PosY="0.007971441" PosZ="-2.080196" Orient="1.561064"/>
+			<AttackNpcSpawnData ID="4" AttackNpcID="1011" PosX="-4.174716" PosY="0.007971428" PosZ="-2.128261" Orient="1.561064"/>
+			<AttackNpcSpawnData ID="5" AttackNpcID="1011" PosX="-3.958786" PosY="-1.11729" PosZ="0.08691883" Orient="-2.255141"/>
+			<AttackNpcSpawnData ID="6" AttackNpcID="1011" PosX="-3.670749" PosY="-1.349929" PosZ="-4.14187" Orient="-1.178557"/>
+			<AttackNpcSpawnData ID="7" AttackNpcID="1004" PosX="2.46068" PosY="-1.077555" PosZ="-6.867386" Orient="0.6090267"/>
+			<AttackNpcSpawnData ID="8" AttackNpcID="1004" PosX="-1.26538" PosY="-1.349927" PosZ="3.209646" Orient="-0.06160318"/>
+			<AttackNpcSpawnData ID="9" AttackNpcID="1004" PosX="4.651875" PosY="-1.349928" PosZ="1.444807" Orient="-1.70594"/>
+			<AttackNpcSpawnData ID="10" AttackNpcID="1004" PosX="3.648122" PosY="-1.34993" PosZ="-5.392151" Orient="-1.006969"/>
+		</AttackNpcWaveData>
+	</BattleData>
+	<BattleData ID="1009" SceneId="9" Name="demo03_scene02">
+		<AttackNpcWaveData SpawnTime="0 ">
+			<AttackNpcSpawnData ID="1" AttackNpcID="1011" PosX="7.778465" PosY="0.008469493" PosZ="0.596248" Orient="1.684658" PatrolRadius="2"/>
+			<AttackNpcSpawnData ID="3" AttackNpcID="1011" PosX="8.408018" PosY="0.008467825" PosZ="-4.910202" Orient="-3.589955" PatrolRadius="2"/>
+			<AttackNpcSpawnData ID="4" AttackNpcID="1011" PosX="3.121374" PosY="0.00846755" PosZ="-5.815162" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="6" AttackNpcID="1011" PosX="2.109792" PosY="0.008469683" PosZ="1.223142" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="7" AttackNpcID="1001" PosX="-6.230782" PosY="0.00846863" PosZ="-2.253186" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="8" AttackNpcID="1001" PosX="-5.966649" PosY="0.008470237" PosZ="3.052948" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="9" AttackNpcID="2001" PosX="-7.268028" PosY="0.008469486" PosZ="0.573611" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="10" AttackNpcID="1011" PosX="8.740425" PosY="0.00846944" PosZ="-2.067091" Orient="-2.649468"/>
+			<AttackNpcSpawnData ID="11" AttackNpcID="1011" PosX="10.16404" PosY="0.00846944" PosZ="-4.584492" Orient="-2.649468"/>
+		</AttackNpcWaveData>
+	</BattleData>
+	<BattleData ID="1010" SceneId="11" Name="demo03_wartest01">
+		<WarriorSpawnData>
+			<WarriorSpawnPos PosX="1.467374" PosY="-1.559968" PosZ="-1.786602" Orient="-0.3635535"/>
+			<WarriorSpawnPos PosX="5.225894" PosY="-1.607344" PosZ="-0.03002963" Orient="-0.606568"/>
+			<WarriorSpawnPos PosX="0.2136799" PosY="-1.607344" PosZ="1.388593" Orient="-0.606568"/>
+			<WarriorSpawnPos PosX="-4.728709" PosY="-1.607344" PosZ="0.5409266" Orient="-0.606568"/>
+		</WarriorSpawnData>
+		<AttackNpcWaveData SpawnTime="0 ">
+			<AttackNpcSpawnData ID="1" AttackNpcID="1001" PosX="4.58673" PosY="-1.589099" PosZ="-4.271957" Orient="-0.8665703" PatrolRadius="2"/>
+			<AttackNpcSpawnData ID="3" AttackNpcID="1001" PosX="8.259057" PosY="-1.512397" PosZ="0.3704709" Orient="-1.459452" PatrolRadius="2"/>
+			<AttackNpcSpawnData ID="4" AttackNpcID="1011" PosX="-1.521102" PosY="-1.594372" PosZ="-4.232333" Orient="-0.4039717"/>
+			<AttackNpcSpawnData ID="6" AttackNpcID="1011" PosX="-0.1438328" PosY="-1.56469" PosZ="1.412266" Orient="9.779723"/>
+			<AttackNpcSpawnData ID="7" AttackNpcID="1001" PosX="-8.430352" PosY="-1.604494" PosZ="-0.3940568" Orient="1.526863"/>
+		</AttackNpcWaveData>
+	</BattleData>
+	<BattleData ID="1011" SceneId="12" Name="demo03_wartest02">
+		<WarriorSpawnData>
+			<WarriorSpawnPos PosX="5.808798" PosY="-1.658111" PosZ="1.904284" Orient="-1.442412"/>
+			<WarriorSpawnPos PosX="6.217396" PosY="-1.658111" PosZ="-0.3038492" Orient="-1.442412"/>
+			<WarriorSpawnPos PosX="6.634253" PosY="-1.658112" PosZ="-2.442843" Orient="-1.442412"/>
+			<WarriorSpawnPos PosX="7.189016" PosY="-1.658112" PosZ="-4.97124" Orient="-1.442412"/>
+		</WarriorSpawnData>
+		<AttackNpcWaveData SpawnTime="0 ">
+			<AttackNpcSpawnData ID="1" AttackNpcID="1001" PosX="1.408496" PosY="-1.658112" PosZ="-2.460572" Orient="1.478988"/>
+			<AttackNpcSpawnData ID="2" AttackNpcID="1001" PosX="-0.3691958" PosY="-1.656843" PosZ="-0.1649659" Orient="2.005089"/>
+			<AttackNpcSpawnData ID="3" AttackNpcID="1001" PosX="-0.8201525" PosY="-1.658113" PosZ="-5.95815" Orient="0.9587162"/>
+			<AttackNpcSpawnData ID="4" AttackNpcID="1011" PosX="-3.977987" PosY="-1.658111" PosZ="0.1541878" Orient="1.587664"/>
+			<AttackNpcSpawnData ID="5" AttackNpcID="1011" PosX="-4.729827" PosY="-1.658112" PosZ="-3.590895" Orient="1.532062"/>
+		</AttackNpcWaveData>
+	</BattleData>
+	<BattleData ID="1012" SceneId="14" Name="demo03_wartest04">
+		<WarriorSpawnData>
+			<WarriorSpawnPos PosX="0.3521538" PosY="-1.410227" PosZ="-6.088672" Orient="0.04339142"/>
+			<WarriorSpawnPos PosX="7.640125" PosY="-1.410228" PosZ="-3.486572" Orient="5.033234"/>
+			<WarriorSpawnPos PosX="0.7422416" PosY="-1.410228" PosZ="1.245318" Orient="3.148611"/>
+			<WarriorSpawnPos PosX="-6.676387" PosY="-1.410228" PosZ="-2.994599" Orient="1.639592"/>
+		</WarriorSpawnData>
+		<AttackNpcWaveData SpawnTime="0 ">
+			<AttackNpcSpawnData ID="1" AttackNpcID="1001" PosX="4.496034" PosY="-1.410228" PosZ="-1.353455" Orient="0.4556793"/>
+			<AttackNpcSpawnData ID="2" AttackNpcID="1001" PosX="-1.503296" PosY="-1.410228" PosZ="-1.349662" Orient="5.608644"/>
+			<AttackNpcSpawnData ID="3" AttackNpcID="1001" PosX="4.673927" PosY="-1.410227" PosZ="-5.920962" Orient="1.433808"/>
+			<AttackNpcSpawnData ID="4" AttackNpcID="1001" PosX="-2.290765" PosY="-1.370049" PosZ="-6.163538" Orient="5.465526"/>
+			<AttackNpcSpawnData ID="5" AttackNpcID="1011" PosX="2.477421" PosY="-1.410228" PosZ="-2.784693" Orient="0.5453455"/>
+			<AttackNpcSpawnData ID="6" AttackNpcID="1011" PosX="2.568403" PosY="-1.365089" PosZ="-5.205885" Orient="0.479994"/>
+			<AttackNpcSpawnData ID="7" AttackNpcID="1011" PosX="0.5753765" PosY="-1.410228" PosZ="-2.786267" Orient="5.834942"/>
+			<AttackNpcSpawnData ID="8" AttackNpcID="1011" PosX="0.5967231" PosY="-1.331889" PosZ="-5.224751" Orient="5.671807"/>
+		</AttackNpcWaveData>
+	</BattleData>
+	<BattleData ID="1013" SceneId="14" Name="demo03_wartest04">
+		<WarriorSpawnData>
+			<WarriorSpawnPos PosX="0.3521538" PosY="-1.410227" PosZ="-6.088672" Orient="0.04339142"/>
+			<WarriorSpawnPos PosX="7.640125" PosY="-1.410228" PosZ="-3.486572" Orient="5.033234"/>
+			<WarriorSpawnPos PosX="0.7422416" PosY="-1.410228" PosZ="1.245318" Orient="3.148611"/>
+			<WarriorSpawnPos PosX="-6.676387" PosY="-1.410228" PosZ="-2.994599" Orient="1.639592"/>
+		</WarriorSpawnData>
+		<AttackNpcWaveData SpawnTime="0 ">
+			<AttackNpcSpawnData ID="1" AttackNpcID="2001" PosX="-1.797353" PosY="-1.410228" PosZ="-1.680397" Orient="1.604534" AI="1001"/>
+		</AttackNpcWaveData>
+	</BattleData>
+</BattleDatas>

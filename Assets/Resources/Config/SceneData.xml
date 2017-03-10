@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SceneData 场景配置  Name: 场景名字; LevelName: 场景资源名字; Desc: 场景描述（无用）GameState：场景调用逻辑 -->
+<SceneDatas>
+	<SceneData ID="1" Name="login" LevelName="login" Desc="登陆场景" GameState="LoginState"/>
+	<SceneData ID="2" Name="city" LevelName="city_home03" Desc="主城场景1" GameState="CityState"/>
+	<SceneData ID="3" Name="dungeon01" LevelName="map_plain_changbanpo01" Desc="旧大地图" GameState="DungeonState"/>
+	<SceneData ID="4" Name="battle01" LevelName="demo2_scene01" Desc="战斗场景1" GameState="BattleState"/>
+	<SceneData ID="5" Name="battle02" LevelName="demo2_scene02" Desc="战斗场景2" GameState="BattleState"/>
+	<SceneData ID="6" Name="battle03" LevelName="demo2_scene03" Desc="战斗场景3" GameState="BattleState"/>
+	<SceneData ID="7" Name="dungeon01" LevelName="map_plain_changbanpo05" Desc="新大地图" GameState="DungeonState"/>
+	<SceneData ID="8" Name="dungeon01" LevelName="map_plain_changbanpo03" Desc="7.11新大地图" GameState="DungeonState"/>
+	<SceneData ID="9" Name="battle04" LevelName="demo03_scene02" Desc="战斗场景4" GameState="BattleState"/>
+	<SceneData ID="10" Name="battle05" LevelName="demo03_scene01" Desc="战斗场景5" GameState="BattleState"/>
+	<SceneData ID="11" Name="battle06" LevelName="demo03_wartest01" Desc="战斗场景6" GameState="BattleState"/>
+	<SceneData ID="12" Name="battle07" LevelName="demo03_wartest02" Desc="战斗场景7" GameState="BattleState"/>
+	<SceneData ID="13" Name="battle08" LevelName="demo03_wartest03" Desc="战斗场景8" GameState="BattleState"/>
+	<SceneData ID="14" Name="battle09" LevelName="demo03_wartest04" Desc="战斗场景9" GameState="BattleState"/>
+</SceneDatas>

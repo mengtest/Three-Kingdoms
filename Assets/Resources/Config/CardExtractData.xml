@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 被2011 rel. 2 sp1 (wangxm) 使用XMLSpy vxuxian编辑的 (http://www.altova.com) by -->
+<!--抽卡消耗配置-->
+<!--ID：抽卡方式ID-->
+<!--Desc：描述-->
+<!--ConsumeGold：抽卡所需金币-->
+<!--ConsumeCash：抽卡所需元宝-->
+<CardExtractDatas>
+	<CardExtractData ID = "0" Desc="白卡抽取" ConsumeGold = "10" ConsumeCash = "0" />
+	<CardExtractData ID = "1" Desc="蓝卡抽取" ConsumeGold = "100" ConsumeCash = "0" />
+	<CardExtractData ID = "2" Desc="金卡抽取" ConsumeGold = "200" ConsumeCash = "0" />
+</CardExtractDatas>

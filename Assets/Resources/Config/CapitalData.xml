@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 被2011 rel. 2 sp1 (wangxm) 使用XMLSpy vxuxian编辑的 (http://www.altova.com) by -->
+<CapitalDatas>
+  <CapitalData ID="1" Name="capital1" Icon="Capital_Gold" Desc=""/>
+  <CapitalData ID="2" Name="capital2" Icon="Capital_Valuable" Desc=""/>
+  <CapitalData ID="3" Name="capital3" Icon="Capital_Stone" Desc=""/>
+  <CapitalData ID="4" Name="capital4" Icon="Capital_Wood" Desc=""/>
+  <CapitalData ID="5" Name="capital5" Icon="Capital_Crystal" Desc=""/>
+</CapitalDatas>

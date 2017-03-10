@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 被2011 rel. 2 sp1 (TeaM DJiNN) 使用XMLSpy vTeaM DJiNN编辑的 (http://www.altova.com) by -->
+<!-- 技能数据 Id: 技能Id(整形); Name: 技能名字; Icon: 图标; SkillType: 技能类型(0:降临技能 1:普通攻击 2：攻击类技能 3: 大招技能);-->
+<!-- CDTime: CD; HitType: 击中类型(0:对敌方目标 1:敌方范围 2:友方目标 3:友方范围 4:自己);-->
+<!-- HitNum:目标个数(范围有效， -1为全部); HitSharpType: 攻击范围类型(0：对目标 1：圆形 2：扇形); -->
+<!-- AttackRadius: 伤害范围; AttackAngle: 范围角度; AttackDist:攻击距离-->
+<!-- BpNeed: 降临技能Bp需求-->
+
+
+<!-- ****************SkillEffectData(支持添加多个Effect)******************* -->
+<!-- 立即伤害： Type = 0 HitEffect: 击中特效(可以填写多个特效";"隔开)；Para1: 伤害数值； Para2:暴击概率(0 - 1)； Para3：暴击加成倍率，基础为1 -->
+<!-- 立即加血： Type = 1 HitEffect: 击中特效(可以填写多个特效";"隔开)；Para1: 治疗数值； -->
+<!-- 添加Buff： Type = 2 Para1: BuffId； -->
+<!-- 嘲讽： Type = 3; -->
+<!-- 击倒： Type = 4; Para1：后退距离 Para2：后退时间-->
+<!-- 击飞： Type = 5; Para1：后退距离 Para2：后退时间-->
+<!-- ******************************************************************** -->
+
+
+<SkillDatas>
+	<SkillData ID="1001" Name="Skill1" Desc="80604011" Icon="Skill1001" SkillType="1" CDTime="3" AttackDist="2" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="2" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="2" Para2="0" Para3="1.7"/>
+	</SkillData>	
+	<SkillData ID="1002" Name="Skill2" Desc="80604011" Icon="Skill1002" SkillType="1" CDTime="3" AttackDist="2" HitType="1" HitSharpType="2" HitNum="-1" AttackRadius="2" AttackAngle="30">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="10" Para2="0" Para3="1.7"/>
+	</SkillData>			
+	<SkillData ID="1003" Name="Skill_liubeipugong1" Desc="80604012" Icon="Skill1003" SkillType="1" AttackDist="2" CDTime="1" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="2" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="26" Para2="0.2" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1004" Name="Skill_qiangbingpugong1" Desc="80604029" Icon="Skill1004" SkillType="1" AttackDist="2" CDTime="1.7" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="2" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="20" Para2="0" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1005" Name="Skill_qiangbingpugong2" Desc="80604030" Icon="Skill1005" SkillType="1" AttackDist="2" CDTime="1.7" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="2" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="20" Para2="0" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1006" Name="Skill_qiangbingpugong3" Desc="80604031" Icon="Skill1006" SkillType="1" AttackDist="2" CDTime="1.7" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="2" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="20" Para2="0" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1007" Name="Skill_liubeipugong2" Desc="80604013" Icon="Skill1007" SkillType="1" AttackDist="2" CDTime="1" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="2" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="26" Para2="0.2" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1008" Name="Skill_liubeipugong3" Desc="80604014" Icon="Skill1008" SkillType="1" AttackDist="2" CDTime="1" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="2" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10047;10048" Para1="26" Para2="0.2" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1009" Name="Skill_liubeishuangzhan" Desc="80604015" Icon="Skill1009" SkillType="2" AttackDist="2" CDTime="2" HitType="1" HitSharpType="2" HitNum="-1" AttackRadius="2" AttackAngle="30" BpNeed="">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="40" Para2="0.2" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1010" Name="Skill_liubeihengzhan" Desc="80604016" Icon="Skill1010" SkillType="3" AttackDist="5" CDTime="2" HitType="0" HitSharpType="0" HitNum="0" AttackRadius="5" AttackAngle="0" BpNeed="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="110" Para2="0.2" Para3="1.7"/>
+		<SkillEffectData ID="1" Type="4" Para1="2" Para2="0.1"/>
+		<SkillEffectData ID="2" Type="2" Para1="1005"/>
+	</SkillData>		
+	<SkillData ID="1011" Name="Skill_liubeijianyu" Desc="80604017" Icon="Skill1011" SkillType="3" AttackDist="10" CDTime="20" HitType="1" HitSharpType="1" HitNum="-1" AttackRadius="10" AttackAngle="0" BpNeed="100">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="40" Para2="0.1" Para3="1.7"/>	
+	</SkillData>		
+	<SkillData ID="1012" Name="Skill_zhangfeipugong1" Desc="80604018" Icon="Skill1012" SkillType="1" AttackDist="3" CDTime="1" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="3" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="38" Para2="0.2" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1013" Name="Skill_zhangfeipugong2" Desc="80604019" Icon="Skill1013" SkillType="1" AttackDist="3" CDTime="1" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="3" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="38" Para2="0.2" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1014" Name="Skill_zhangfeipugong3" Desc="80604020" Icon="Skill1014" SkillType="1" AttackDist="3" CDTime="1" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="3" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10047;10048" Para1="38" Para2="0.2" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1015" Name="Skill_zhangfeihengsao" Desc="80604021" Icon="Skill1015" SkillType="2" AttackDist="3" CDTime="20" HitType="1" HitSharpType="2" HitNum="-1" AttackRadius="3" AttackAngle="180">
+		<SkillEffectData ID="0" Type="0" HitEffect="10047;10048" Para1="60" Para2="0.2" Para3="1.7"/>
+		<SkillEffectData ID="1" Type="4" Para1="2" Para2="0.1"/>
+	</SkillData>		
+	<SkillData ID="1016" Name="Skill_zhangfeihuxiao" Desc="80604022" Icon="Skill1016" SkillType="2" AttackDist="7" CDTime="35" HitType="1" HitSharpType="2" HitNum="-1" AttackRadius="7" AttackAngle="60" BpNeed="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="80" Para2="0.2" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1017" Name="Skill_zhangfeidizhen" Desc="80604023" Icon="Skill1017" SkillType="3" AttackDist="5" CDTime="20" HitType="1" HitSharpType="1" HitNum="-1" AttackRadius="5" AttackAngle="0" BpNeed="100">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="170" Para2="0.5" Para3="1.7"/>
+		<SkillEffectData ID="1" Type="5" Para1="2" Para2="0.1"/>
+	</SkillData>		
+	<SkillData ID="1018" Name="Skill_xiahoujiepugong1" Desc="80604024" Icon="Skill1018" SkillType="1" AttackDist="2.5" CDTime="1" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="2.5" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="30" Para2="0.1" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1019" Name="Skill_xiahoujiepugong2" Desc="80604025" Icon="Skill1019" SkillType="1" AttackDist="2.5" CDTime="1" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="2.5" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="30" Para2="0.1" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1020" Name="Skill_xiahoujiepugong3" Desc="80604026" Icon="Skill1020" SkillType="1" AttackDist="2.5" CDTime="1" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="2.5" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="30" Para2="0.1" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1021" Name="Skill_xiahoujiezhuangshan" Desc="80604027" Icon="Skill1021" SkillType="3" AttackDist="7" CDTime="10" HitType="1" HitSharpType="2" HitNum="-1" AttackRadius="7" AttackAngle="100" BpNeed="50">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="90" Para2="0.1" Para3="1.7"/>
+		<SkillEffectData ID="1" Type="2" Para1="1002"/>
+	</SkillData>		
+	<SkillData ID="1022" Name="Skill_xiahoujieliedi" Desc="80604028" Icon="Skill1021" SkillType="3" AttackDist="3" CDTime="10" HitType="1" HitSharpType="1" HitNum="-1" AttackRadius="3" AttackAngle="365" BpNeed="100">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="110" Para2="0.1" Para3="1.7"/>
+		<SkillEffectData ID="1" Type="2" Para1="1002"/>			
+	</SkillData>		
+	<SkillData ID="1023" Name="Skill_qiangbingyuangong1" Desc="80604029" Icon="Skill1004" SkillType="1" AttackDist="20" CDTime="1.7" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="20" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="30" Para2="0" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1024" Name="Skill_qiangbingyuangong2" Desc="80604030" Icon="Skill1005" SkillType="1" AttackDist="20" CDTime="1.7" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="20" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="30" Para2="0" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1025" Name="Skill_zhangfeilianzhao" Desc="80604032" Icon="Skill1005" SkillType="3" AttackDist="3" CDTime="1" HitType="1" HitSharpType="1" HitNum="-1" AttackRadius="4" AttackAngle="0" BpNeed="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="25" Para2="0.2" Para3="1.7"/>
+		<SkillEffectData ID="1" Type="2" Para1="1004"/>
+		<SkillEffectData ID="2" Type="4" Para1="2" Para2="0.1"/>
+	</SkillData>		
+	<SkillData ID="1026" Name="Skill_zhugeliangpugong1" Desc="80604033" Icon="Skill1003" SkillType="1" AttackDist="7" CDTime="1" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="7" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10042" Para1="23" Para2="0.3" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1027" Name="Skill_zhugeliangpugong2" Desc="80604034" Icon="Skill1003" SkillType="1" AttackDist="7" CDTime="1" HitType="0" HitSharpType="0" HitNum="-1" AttackRadius="7" AttackAngle="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10043" Para1="23" Para2="0.3" Para3="1.7"/>
+	</SkillData>		
+	<SkillData ID="1028" Name="Skill_zhugeliangsuibing" Desc="80604035" Icon="Skill1011" SkillType="3" AttackDist="20" CDTime="2" HitType="1" HitSharpType="1" HitNum="-1" AttackRadius="20" AttackAngle="0" BpNeed="100">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="180" Para2="0.2" Para3="1.7"/>
+		<SkillEffectData ID="1" Type="2" Para1="1003"/>
+	</SkillData>		
+	<SkillData ID="1029" Name="Skill_zhangfeiluodi" Desc="80604023" Icon="Skill1011" SkillType="0" AttackDist="4" CDTime="2" HitType="1" HitSharpType="1" HitNum="-1" AttackRadius="4" AttackAngle="0" BpNeed="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="30" Para2="0" Para3="1.7"/>
+		<SkillEffectData ID="1" Type="2" Para1="1002"/>			
+	</SkillData>
+	<SkillData ID="1030" Name="Skill_liubeiluodi" Desc="80604023" Icon="Skill1011" SkillType="0" AttackDist="5" CDTime="20" HitType="1" HitSharpType="1" HitNum="-1" AttackRadius="5" AttackAngle="0" BpNeed="0">
+		<SkillEffectData ID="0" Type="0" Para1="50" Para2="0" Para3="1.7"/>
+		<SkillEffectData ID="1" Type="2" Para1="1005"/>			
+	</SkillData>
+	<SkillData ID="1031" Name="Skill_diaochanluodi" Desc="80604023" Icon="Skill1011" SkillType="0" AttackDist="4" CDTime="20" HitType="1" HitSharpType="1" HitNum="-1" AttackRadius="4" AttackAngle="0" BpNeed="0">
+		<SkillEffectData ID="0" Type="0" Para1="40" Para2="0" Para3="1.7"/>
+		<SkillEffectData ID="1" Type="2" Para1="1006"/>
+	</SkillData>
+	<SkillData ID="1032" Name="Skill_xiahoujieluodi" Desc="80604023" Icon="Skill1011" SkillType="0" AttackDist="4" CDTime="20" HitType="1" HitSharpType="1" HitNum="-1" AttackRadius="4" AttackAngle="0" BpNeed="0">
+		<SkillEffectData ID="0" Type="0" Para1="50" Para2="0" Para3="1.7"/>
+	</SkillData>
+	<SkillData ID="1033" Name="Skill_zhugeliangbing" Desc="80604035" Icon="Skill1011" SkillType="3" AttackDist="20" CDTime="20" HitType="1" HitSharpType="1" HitNum="-1" AttackRadius="20" AttackAngle="0" BpNeed="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="130" Para2="0.2" Para3="1.7"/>
+	</SkillData>
+	<SkillData ID="1034" Name="Skill_xiahoujiechongjibo" Desc="80604023" Icon="Skill1017" SkillType="3" AttackDist="10" CDTime="120" HitType="1" HitSharpType="1" HitNum="-1" AttackRadius="10" AttackAngle="0" BpNeed="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="330" Para2="0.3" Para3="1.7"/>
+		<SkillEffectData ID="1" Type="4" Para1="4" Para2="0.3"/>
+	</SkillData>
+	<SkillData ID="1035" Name="Skill_xiahoujiehuoyu" Desc="80604017" Icon="Skill1011" SkillType="3" AttackDist="10" CDTime="120" HitType="1" HitSharpType="1" HitNum="-1" AttackRadius="10" AttackAngle="0" BpNeed="0">
+		<SkillEffectData ID="0" Type="0" HitEffect="10001" Para1="80" Para2="0.1" Para3="1.7"/>
+	</SkillData>
+	<SkillData ID="1036" Name="Skill_xiaoqiaopugong1" Desc="80604017" Icon="Skill1011" SkillType="1" AttackDist="5" CDTime="1" HitType="2" HitSharpType="0" HitNum="1" AttackRadius="5" AttackAngle="0" BpNeed="0">
+		<SkillEffectData ID="0" Type="1" HitEffect="10051" Para1="25"/>	
+	</SkillData>
+	<SkillData ID="1037" Name="Skill_xiaoqiaopugong2" Desc="80604017" Icon="Skill1011" SkillType="1" AttackDist="5" CDTime="1" HitType="2" HitSharpType="0" HitNum="1" AttackRadius="5" AttackAngle="0" BpNeed="0">
+		<SkillEffectData ID="0" Type="1" HitEffect="10051" Para1="25"/>	
+	</SkillData>
+	<SkillData ID="1038" Name="Skill_xiaoqiaodazhao" Desc="80604017" Icon="Skill1011" SkillType="3" AttackDist="10" CDTime="20" HitType="3" HitSharpType="1" HitNum="-1" AttackRadius="10" AttackAngle="0" BpNeed="0">
+		<SkillEffectData ID="0" Type="1" HitEffect="10051" Para1="90"/>
+	</SkillData>
+	<SkillData ID="1039" Name="Skill_xiaoqiaoluodi" Desc="80604023" Icon="Skill1011" SkillType="0" AttackDist="10" CDTime="20" HitType="3" HitSharpType="1" HitNum="-1" AttackRadius="10" AttackAngle="0" BpNeed="0">
+		<SkillEffectData ID="0" Type="1" HitEffect="10051" Para1="75"/>		
+	</SkillData>
+</SkillDatas>

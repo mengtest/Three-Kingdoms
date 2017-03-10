@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Object>
+	<!--ID 物品ID-->
+	<!--Name 名字 中文包-->
+	<!--script 脚本 与功能有关 先不变-->
+	<!--ItemType 物品类型 1：装备，2：宝物，3：宝物碎片，4：装备碎片，5：道具，6：宝箱-->
+	<!--Desc 物品描述 中文包-->
+	<!--Icon 物品图标-->
+	<!--CantSell 是否不可卖 0可以卖出，1不可卖出-->
+	<!--SellType 售卖货币类型1：金币，2：元宝，3：石头，4：木头，5：水晶-->
+	<!--Price 价格-->
+	<Property ID="10001" Name="ItemName1001" script="ToolItem" ItemType="5" Desc="Item1001" Icon="1001" CantSell="1" SellType="1" Price="1"/>
+	<Property ID="10002" Name="ItemName1002" script="ToolItem" ItemType="5" Desc="Item1002" Icon="1002" CantSell="0" SellType="1" Price="10"/>
+	<Property ID="10003" Name="ItemName1003" script="ToolItem" ItemType="5" Desc="Item1003" Icon="1003" CantSell="0" SellType="1" Price="100"/>
+	<Property ID="10004" Name="ItemName1004" script="ToolItem" ItemType="5" Desc="Item1004" Icon="1004" CantSell="0" SellType="1" Price="1000"/>
+</Object>
+ 

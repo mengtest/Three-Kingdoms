@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 被2011 rel. 2 sp1 (wangxm) 使用XMLSpy vxuxian编辑的 (http://www.altova.com) by -->
+<!--关卡Npc数据 Name: 名字 Level : 等级 Model: 模型 Height ： 高度 Radius 半径 Speed ： 移动速度（暂时无用） -->
+<NpcDatas>
+	<NpcData ID="1001" Name="NPC_01" Level="1" Desc="80603009" Model="npc002" Height="2" Radius="0.8" Speed="0"/>
+	<NpcData ID="1002" Name="NPC_02" Level="1" Desc="80603009" Model="npc002" Height="2" Radius="0.8" Speed="0"/>
+	<NpcData ID="1003" Name="NPC_03" Level="1" Desc="80603009" Model="npc002" Height="2" Radius="0.8" Speed="0"/>
+	<NpcData ID="1004" Name="NPC_04" Level="1" Desc="80603009" Model="npc002" Height="2" Radius="0.8" Speed="0"/>
+	<NpcData ID="2001" Name="boss1001" Level="1" Desc="80603009" Model="xiahoujie" Height="2" Radius="0.8" Speed="0"/>
+	<NpcData ID="9001" Name="treasurebox1" Level="1" Desc="80603009" Model="baoxiang2" Height="1" Radius="0.8" Speed="0"/>
+	<NpcData ID="9002" Name="crystalpiece" Level="1" Desc="80603009" Model="Crystal" Height="0.71" Radius="0.72" Speed="0"/>
+</NpcDatas>

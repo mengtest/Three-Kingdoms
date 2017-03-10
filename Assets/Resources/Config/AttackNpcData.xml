@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 被2011 rel. 2 sp1 (TeaM DJiNN) 使用XMLSpy vTeaM DJiNN编辑的 (http://www.altova.com) by -->
+<!--战斗Npc数据 Name: 名字； Level : 等级； Model: 模型 ；Height ： 高度； Radius 半径 ； Spring: 警戒范围; Speed ： 移动速度； MaxHp:最大血量 ；Damage: 伤害（暂时调用技能伤害）； NormalAttackCDTime: 普通攻击频率; SkillArray: 技能列表';'隔开 -->
+<AttackNpcDatas>
+	<AttackNpcData ID="1001" Name="npc1001" Level="1" Desc="80603009" Model="npc002" Speed="2.5" Height="2" Radius="0.5" Spring="7" MaxHp="500" Damage="17" NormalAttackCDTime="1.7" SkillArray="1004;1005;1006"/>
+	<AttackNpcData ID="1002" Name="npc1002" Level="1" Desc="80603009" Model="npc002" Speed="2.5" Height="2" Radius="0.5" Spring="100" MaxHp="300" Damage="19" NormalAttackCDTime="1.7" SkillArray="1004;1005;1006"/>
+	<AttackNpcData ID="1003" Name="npc1003" Level="1" Desc="80603009" Model="npc002" Speed="2.5" Height="2" Radius="0.5" Spring="100" MaxHp="300" Damage="19" NormalAttackCDTime="1.7" SkillArray="1004;1005;1006"/>
+	<AttackNpcData ID="1004" Name="npc1001" Level="1" Desc="80603009" Model="npc002" Speed="2.5" Height="2" Radius="0.5" Spring="100" MaxHp="500" Damage="17" NormalAttackCDTime="1.7" SkillArray="1004;1005;1006"/>
+	<AttackNpcData ID="2001" Name="boss1001" Level="1" Desc="80603009" Model="xiahoujie" Speed="2.5" Height="2" Radius="0.5" Spring="6" MaxHp="2300" Damage="50" NormalAttackCDTime="1" SkillArray="1018;1019;1020;1021;1022;1034;1035"/>
+	<AttackNpcData ID="1011" Name="npc1011" Level="1" Desc="80603009" Model="npc003" Speed="2.5" Height="2" Radius="0.5" Spring="20" MaxHp="300" Damage="23" NormalAttackCDTime="1.9" SkillArray="1023;1024"/>
+</AttackNpcDatas>

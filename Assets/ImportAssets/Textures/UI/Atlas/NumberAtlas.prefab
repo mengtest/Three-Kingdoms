@@ -1,0 +1,344 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: NumberAtlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 4408e068711d68740ad5a79cdfbfbc1c, type: 2}
+  mSprites:
+  - name: NumberGreen_0
+    x: 121
+    y: 3
+    width: 36
+    height: 45
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 14
+    paddingRight: 14
+    paddingTop: 11
+    paddingBottom: 8
+  - name: NumberGreen_1
+    x: 102
+    y: 46
+    width: 18
+    height: 52
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 23
+    paddingRight: 23
+    paddingTop: 7
+    paddingBottom: 5
+  - name: NumberGreen_2
+    x: 0
+    y: 212
+    width: 44
+    height: 44
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 10
+    paddingTop: 11
+    paddingBottom: 9
+  - name: NumberGreen_3
+    x: 0
+    y: 105
+    width: 33
+    height: 49
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 16
+    paddingRight: 15
+    paddingTop: 9
+    paddingBottom: 6
+  - name: NumberGreen_4
+    x: 58
+    y: 35
+    width: 43
+    height: 56
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 10
+    paddingTop: 5
+    paddingBottom: 3
+  - name: NumberGreen_5
+    x: 83
+    y: 99
+    width: 38
+    height: 49
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 13
+    paddingRight: 13
+    paddingTop: 9
+    paddingBottom: 6
+  - name: NumberGreen_6
+    x: 0
+    y: 48
+    width: 38
+    height: 56
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 13
+    paddingRight: 13
+    paddingTop: 5
+    paddingBottom: 3
+  - name: NumberGreen_7
+    x: 160
+    y: 150
+    width: 38
+    height: 55
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 13
+    paddingRight: 13
+    paddingTop: 6
+    paddingBottom: 3
+  - name: NumberGreen_8
+    x: 129
+    y: 206
+    width: 37
+    height: 50
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 14
+    paddingRight: 13
+    paddingTop: 8
+    paddingBottom: 6
+  - name: NumberGreen_9
+    x: 155
+    y: 80
+    width: 33
+    height: 62
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 16
+    paddingRight: 15
+    paddingTop: 2
+    paddingBottom: 0
+  - name: NumberGreen_Add
+    x: 73
+    y: 194
+    width: 55
+    height: 62
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 5
+    paddingRight: 4
+    paddingTop: 2
+    paddingBottom: 0
+  - name: NumberRed_0
+    x: 0
+    y: 2
+    width: 36
+    height: 45
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 14
+    paddingRight: 14
+    paddingTop: 11
+    paddingBottom: 8
+  - name: NumberRed_1
+    x: 39
+    y: 39
+    width: 18
+    height: 52
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 23
+    paddingRight: 23
+    paddingTop: 7
+    paddingBottom: 5
+  - name: NumberRed_2
+    x: 73
+    y: 149
+    width: 44
+    height: 44
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 10
+    paddingTop: 11
+    paddingBottom: 9
+  - name: NumberRed_3
+    x: 121
+    y: 49
+    width: 33
+    height: 49
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 16
+    paddingRight: 15
+    paddingTop: 9
+    paddingBottom: 6
+  - name: NumberRed_4
+    x: 39
+    y: 92
+    width: 43
+    height: 56
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 11
+    paddingRight: 10
+    paddingTop: 5
+    paddingBottom: 3
+  - name: NumberRed_5
+    x: 167
+    y: 207
+    width: 38
+    height: 49
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 13
+    paddingRight: 13
+    paddingTop: 9
+    paddingBottom: 6
+  - name: NumberRed_6
+    x: 0
+    y: 155
+    width: 38
+    height: 56
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 13
+    paddingRight: 13
+    paddingTop: 5
+    paddingBottom: 3
+  - name: NumberRed_7
+    x: 158
+    y: 24
+    width: 38
+    height: 55
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 13
+    paddingRight: 13
+    paddingTop: 6
+    paddingBottom: 3
+  - name: NumberRed_8
+    x: 122
+    y: 143
+    width: 37
+    height: 50
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 14
+    paddingRight: 13
+    paddingTop: 8
+    paddingBottom: 6
+  - name: NumberRed_9
+    x: 39
+    y: 149
+    width: 33
+    height: 62
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 16
+    paddingRight: 15
+    paddingTop: 2
+    paddingBottom: 0
+  - name: NumberRed_Reduce
+    x: 37
+    y: 13
+    width: 59
+    height: 21
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 2
+    paddingTop: 21
+    paddingBottom: 22
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+  mCoordinates: 0
+  sprites: []
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 被2011 rel. 2 sp1 (wangxm) 使用XMLSpy vxuxian编辑的 (http://www.altova.com) by -->
+<!--ItemEntry：道具编号-->
+<!--ItemCount：道具数量-->
+<!--MoneyType：货币类型-->
+<!--MoneyValue：货币价格-->
+<!--Weight：刷新权重-->
+<Object>
+	<Property ID="20001" ItemEntry="10001" ItemCount="10" MoneyType="1" MoneyValue="1" Weight="1"/>
+	<Property ID="20002" ItemEntry="10002" ItemCount="9" MoneyType="2" MoneyValue="1" Weight="2"/>
+	<Property ID="20003" ItemEntry="10003" ItemCount="7" MoneyType="3" MoneyValue="1" Weight="10"/>
+	<Property ID="20004" ItemEntry="10004" ItemCount="5" MoneyType="4" MoneyValue="2" Weight="50"/>
+	<Property ID="20005" ItemEntry="10001" ItemCount="1" MoneyType="1" MoneyValue="2" Weight="1100"/>
+	<Property ID="20006" ItemEntry="10002" ItemCount="2" MoneyType="2" MoneyValue="2" Weight="100"/>
+	<Property ID="20007" ItemEntry="10003" ItemCount="2" MoneyType="3" MoneyValue="2" Weight="100"/>
+	<Property ID="20008" ItemEntry="10004" ItemCount="2" MoneyType="4" MoneyValue="2" Weight="100"/>
+	<Property ID="20009" ItemEntry="10001" ItemCount="3" MoneyType="1" MoneyValue="2" Weight="100"/>
+	<Property ID="20010" ItemEntry="10002" ItemCount="3" MoneyType="2" MoneyValue="2" Weight="100"/>
+	<Property ID="20011" ItemEntry="10003" ItemCount="3" MoneyType="3" MoneyValue="2" Weight="200"/>
+	<Property ID="20012" ItemEntry="10004" ItemCount="1" MoneyType="4" MoneyValue="2" Weight="300"/>
+</Object>

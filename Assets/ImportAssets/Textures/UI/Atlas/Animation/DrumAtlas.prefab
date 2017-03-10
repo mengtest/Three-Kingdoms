@@ -1,0 +1,266 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: DrumAtlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 05fef18af0548174aad17fdef2b22bcc, type: 2}
+  mSprites:
+  - name: Drum01
+    x: 221
+    y: 801
+    width: 220
+    height: 111
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 30
+    paddingRight: 30
+    paddingTop: 80
+    paddingBottom: 29
+  - name: Drum02
+    x: 689
+    y: 652
+    width: 232
+    height: 121
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 30
+    paddingRight: 18
+    paddingTop: 68
+    paddingBottom: 31
+  - name: Drum03
+    x: 442
+    y: 748
+    width: 246
+    height: 137
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 30
+    paddingRight: 4
+    paddingTop: 52
+    paddingBottom: 31
+  - name: Drum04
+    x: 661
+    y: 514
+    width: 246
+    height: 137
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 30
+    paddingRight: 4
+    paddingTop: 52
+    paddingBottom: 31
+  - name: Drum05
+    x: 689
+    y: 774
+    width: 220
+    height: 111
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 30
+    paddingRight: 30
+    paddingTop: 80
+    paddingBottom: 29
+  - name: Drum06
+    x: 221
+    y: 663
+    width: 218
+    height: 137
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 30
+    paddingRight: 32
+    paddingTop: 53
+    paddingBottom: 30
+  - name: Drum07
+    x: 440
+    y: 589
+    width: 220
+    height: 158
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 30
+    paddingRight: 30
+    paddingTop: 33
+    paddingBottom: 29
+  - name: Drum08
+    x: 0
+    y: 641
+    width: 220
+    height: 191
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 30
+    paddingRight: 30
+    paddingTop: 13
+    paddingBottom: 16
+  - name: Drum09
+    x: 221
+    y: 913
+    width: 220
+    height: 111
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 30
+    paddingRight: 30
+    paddingTop: 80
+    paddingBottom: 29
+  - name: Drum10
+    x: 465
+    y: 375
+    width: 231
+    height: 138
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 19
+    paddingRight: 30
+    paddingTop: 53
+    paddingBottom: 29
+  - name: Drum11
+    x: 0
+    y: 331
+    width: 243
+    height: 154
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 7
+    paddingRight: 30
+    paddingTop: 37
+    paddingBottom: 29
+  - name: Drum12
+    x: 0
+    y: 486
+    width: 243
+    height: 154
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 7
+    paddingRight: 30
+    paddingTop: 37
+    paddingBottom: 29
+  - name: Drum13
+    x: 442
+    y: 913
+    width: 220
+    height: 111
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 30
+    paddingRight: 30
+    paddingTop: 80
+    paddingBottom: 29
+  - name: Drum14
+    x: 663
+    y: 886
+    width: 219
+    height: 138
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 31
+    paddingRight: 30
+    paddingTop: 53
+    paddingBottom: 29
+  - name: Drum15
+    x: 244
+    y: 430
+    width: 220
+    height: 158
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 30
+    paddingRight: 30
+    paddingTop: 33
+    paddingBottom: 29
+  - name: Drum16
+    x: 0
+    y: 833
+    width: 220
+    height: 191
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 30
+    paddingRight: 30
+    paddingTop: 13
+    paddingBottom: 16
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+  mCoordinates: 0
+  sprites: []
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

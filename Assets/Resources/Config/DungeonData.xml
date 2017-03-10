@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 被2011 rel. 2 sp1 (wangxm) 使用XMLSpy vxuxian编辑的 (http://www.altova.com) by -->
+<!-- 【DungeonData：副本数据】【SceneId:场景Id】【Name:名字】【Desc：描述】 【CapitalProducts：副本可获得资源】【ItemProducts：副本可获得道具】 【Pos： 主将出生坐标】【Orient：朝向】-->
+<!-- 【StageData：关卡数据】 【NpcID: 关卡NpcId】【NpcType：0 是怪物， 1是宝箱】【Pos：怪物所在坐标】-->
+<!-- 【GrowthTime：经过X时间后，调用新的战斗包】【BattleId：战斗包Id】【BattleType：战斗类型1为正常出现，0为丢将】【Loot：奖励ID】-->
+<DungeonDatas>
+	<DungeonData ID="1" SceneId="7" Name="HuLaoGuan" Desc="HuLaoGuanDesc" CapitalProducts="1;2;3;4" ItemProducts="10001;10002" PosX="6.429612" PosY="2.499542" PosZ="42.68784" Orient="42.68784">
+		<StageData ID="1" NpcID="1001" NpcType="0" PosX="8.406679" PosY="2.599562" PosZ="28.8073" Orient="0.7825273" IsBossBattle="0">
+			<BattleData GrowthTime="0" BattleID="1007" BattleType="0" Loot="1"/>
+		</StageData>
+		<StageData ID="2" NpcID="1001" NpcType="0" PosX="13.68871" PosY="2.499625" PosZ="41.14178" Orient="11.40711" IsBossBattle="0">
+			<BattleData GrowthTime="0" BattleID="1011" BattleType="1" Loot="1"/>
+		</StageData>
+		<StageData ID="3" NpcID="1001" NpcType="0" PosX="21.2065" PosY="2.499542" PosZ="30.30635" Orient="-0.840369" IsBossBattle="0">
+			<BattleData GrowthTime="0" BattleID="1008" BattleType="1" Loot="1"/>
+		</StageData>
+		<StageData ID="4" NpcID="1001" NpcType="0" PosX="39.15642" PosY="3.25032" PosZ="42.39028" Orient="3.090205" IsBossBattle="0">
+			<BattleData GrowthTime="0" BattleID="1007" BattleType="1" Loot="1"/>
+		</StageData>
+		<StageData ID="5" NpcID="1001" NpcType="0" PosX="28.43318" PosY="2.504442" PosZ="18.33153" Orient="-1.371841" IsBossBattle="0">
+			<BattleData GrowthTime="0" BattleID="1007" BattleType="1" Loot="1"/>
+		</StageData>
+		<StageData ID="6" NpcID="1001" NpcType="0" PosX="29.53727" PosY="2.612508" PosZ="25.26855" Orient="-1.215976" IsBossBattle="0">
+			<BattleData GrowthTime="0" BattleID="1005" BattleType="1" Loot="1"/>
+		</StageData>
+		<StageData ID="7" NpcID="1001" NpcType="0" PosX="20.1011" PosY="2.499542" PosZ="17.53856" Orient="0.7595456" IsBossBattle="0">
+			<BattleData GrowthTime="0" BattleID="1005" BattleType="1" Loot="1"/>
+		</StageData>
+		<StageData ID="8" NpcID="1001" NpcType="0" PosX="37.5471" PosY="2.512031" PosZ="24.7491" Orient="3.977509" IsBossBattle="0">
+			<BattleData GrowthTime="0" BattleID="1012" BattleType="1" Loot="1"/>
+		</StageData>
+		<StageData ID="9" NpcID="1001" NpcType="0" PosX="7.898901" PosY="2.493601" PosZ="11.64758" Orient="1.23584" IsBossBattle="0">
+			<BattleData GrowthTime="0" BattleID="1010" BattleType="1" Loot="1"/>
+		</StageData>
+		<StageData ID="201" NpcID="1002" NpcType="0" PosX="26.0246" PosY="2.499542" PosZ="41.0052" Orient="2.734272" IsBossBattle="0">
+			<BattleData GrowthTime="0" BattleID="1012" BattleType="1" Loot="201"/>
+		</StageData>
+		<StageData ID="301" NpcID="1003" NpcType="0" PosX="41.68266" PosY="2.499542" PosZ="18.81565" Orient="-1.750138" IsBossBattle="0">
+			<BattleData GrowthTime="0" BattleID="1011" BattleType="1" Loot="301"/>
+		</StageData>
+		<StageData ID="401" NpcID="1004" NpcType="0" PosX="10.68106" PosY="2.499542" PosZ="18.46369" Orient="2.35751" IsBossBattle="0">
+			<BattleData GrowthTime="0" BattleID="1006" BattleType="1" Loot="401"/>
+		</StageData>
+		<StageData ID="1001" NpcID="2001" NpcType="0" PosX="28.35917" PosY="3.50058" PosZ="9.829682" Orient="3.327034" IsBossBattle="1">
+			<BattleData GrowthTime="0" BattleID="1009" BattleType="1" Loot="1"/>
+			<BattleData GrowthTime="20" BattleID="1013" BattleType="1" Loot="1001"/>
+		</StageData>
+		<StageData ID="9001" NpcID="9001" NpcType="1" PosX="10.81983" PosY="3.127781" PosZ="4.55555" Orient="0" IsBossBattle="0">
+			<BattleData GrowthTime="0" BattleID="0" BattleType="1" Loot="1001"/>
+		</StageData>
+		<StageData ID="9002" NpcID="9002" NpcType="2" PosX="5.635357" PosY="2.635349" PosZ="38.63599" Orient="0" IsBossBattle="0">
+			<BattleData GrowthTime="0" BattleID="0" BattleType="1" Loot="110"/>
+		</StageData>
+	</DungeonData>
+	<DungeonData ID="2" Name="ChangBanPo">
+  </DungeonData>
+</DungeonDatas>

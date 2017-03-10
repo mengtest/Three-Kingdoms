@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Count:震动次数  -->
+<!-- CountDirection:单次震动每个方向的震动次数  -->
+<!-- RotateDir: 单次震动每个方向的旋转角度  -->
+<!-- Count:震动距离  -->
+<!-- Count:震动速度  -->
+<!-- Count:震动消退参数，0-1 1表示马上消除震动  -->
+
+
+<CameraShakeDatas>
+	<CameraShakeData ID="1001" Count="5" CountDirection="1,1,1"  RotateDir="2,0.5,1" Distance="0.25" Speed="50" Decay="0.2"/>
+	<CameraShakeData ID="1002" Count="1" CountDirection="1,1,1"  RotateDir="0.5,0.5,0.5" Distance="0.25" Speed="50" Decay="0.2"/>
+	<CameraShakeData ID="1003" Count="1" CountDirection="1,1,1"  RotateDir="0.5,0.5,0.5" Distance="0.25" Speed="50" Decay="0.2"/>
+</CameraShakeDatas>	

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- ************************* -->
+<!-- 无敌 Type:0, Effect:特效 Para1:时间 -->
+<!-- 眩晕 Type 1, Effect:特效 Para1:时间 -->
+<!-- 冰冻 Type 2, Effect:特效 Para1:时间 -->
+<!-- 持续加血/减血 Type 3, Effect:特效 Para1:时间 para2:触发间隔时间 param3:HP改变值-->
+<!-- 冲刺（测试版本, 在动作事件里面添加OnSprint(BuffId)） Type 4, Effect:特效 Para1:时间  Para2:速度-->
+<!-- *************************  -->
+
+<BuffDatas>
+	<BuffData ID="1001" Type="0" EffectId="100003" Para1="1.5"/>
+	<BuffData ID="1002" Type="1" EffectId="100003" Para1="2"/>
+	<BuffData ID="1003" Type="2" EffectId="100005" Para1="4"/>
+	<BuffData ID="1004" Type="3" EffectId="100006" Para1="6" Para2="1" Para3="-15"/>
+	<BuffData ID="1005" Type="3" EffectId="100007" Para1="6" Para2="1" Para3="-20"/>
+	<BuffData ID="1006" Type="2" EffectId="100005" Para1="2"/>
+	<BuffData ID="1007" Type="4" EffectId="10033" Para1="0.4" Para2="12"/>
+</BuffDatas>

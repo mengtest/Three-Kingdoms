@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 特效数据 Id(整形); Audio: 音效; Dot: 绑点(刀光需要三个绑点：武器，武器底部，武器顶部); EffectType: 特效类型(1：绑点特效,2: 刀光,-->
+<!-- 3: 子弹,4: 导弹); Save: 是否缓存（使用缓存创建）; Bind: 是否绑定绑点;BindRotate: 是否跟随模型方向 LiveTime: 存在时间; ArtRes: 模型包-->
+<EffectDatas>
+	<EffectData ID="100001" Name="" Audio="" Dot="" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="common_001"/>
+	<EffectData ID="100002" Name="" Audio="" Dot="" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="0" ArtRes="PC_gongjian_fanwei"/>
+	<EffectData ID="100003" Name="" Audio="" Dot="E_Head" EffectType="1" Save="0" Bind="1" BindRotate="1" LiveTime="0" ArtRes="Buff_hunmi"/>
+	<EffectData ID="100004" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="0" LiveTime="2" ArtRes="scenes_shengji"/>
+	<EffectData ID="100005" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="1" BindRotate="1" LiveTime="0" ArtRes="buff_bingdong"/>
+	<EffectData ID="100006" Name="" Audio="" Dot="E_Body" EffectType="1" Save="0" Bind="1" BindRotate="1" LiveTime="0" ArtRes="buff_zhuoshao"/>
+	<EffectData ID="100007" Name="" Audio="" Dot="E_Body" EffectType="1" Save="0" Bind="1" BindRotate="1" LiveTime="0" ArtRes="buff_shandian"/>
+	<EffectData ID="10001" Name="" Audio="" Dot="E_Body" EffectType="1" Save="0" Bind="1" BindRotate="1" LiveTime="1" ArtRes="Skill1003_Hurt"/>
+	<EffectData ID="10005" Name="" Audio="" Dot="E_RHand" EffectType="1" Save="0" Bind="0" LiveTime="1" ArtRes="npc002_att_001"/>
+	<EffectData ID="10006" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="liubeipugong1"/>
+	<EffectData ID="10007" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="liubeipugong2"/>
+	<EffectData ID="10008" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="liubeipugong3"/>
+	<EffectData ID="10009" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="liubeishuangzhan"/>
+	<EffectData ID="10010" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="qiangbingpugong2"/>
+	<EffectData ID="10011" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="qiangbingpugong3"/>
+	<EffectData ID="10012" Name="" Audio="" Dot="E_RWeapon_Top" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="zhangfeipugong1"/>
+	<EffectData ID="10013" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="0" LiveTime="1" ArtRes="liubeijianyu"/>
+	<EffectData ID="10014" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="2" ArtRes="liubeishuangzhanfeixing"/>
+	<EffectData ID="10015" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="2" ArtRes="liubeihengzhan"/>
+	<EffectData ID="10016" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="1" Bind="0" BindRotate="1" LiveTime="1" ArtRes="liubeijianyujianguang"/>
+	<EffectData ID="10017" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="shanguang"/>
+	<EffectData ID="10018" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="zhangfeipugong3"/>
+	<EffectData ID="10019" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="2" ArtRes="zhangfeihengsao"/>
+	<EffectData ID="10020" Name="" Audio="" Dot="E_Body" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="2" ArtRes="zhangfeihuxiao"/>
+	<EffectData ID="10021" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="2" ArtRes="zhangfeihuxiao2"/>
+	<EffectData ID="10022" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="2" ArtRes="zhangfeidizhen"/>
+	<EffectData ID="10023" Name="" Audio="" Dot="E_Foot" EffectType="3" Save="0" Bind="0" BindRotate="1" LiveTime="0" Speed="15" Radius="15" DestroyOnHit="0" ArtRes="liubeishuangzhanfeixing"/>	
+	<EffectData ID="10024" Name="" Audio="" Dot="E_Body" EffectType="4" Save="0" Bind="0" BindRotate="1" LiveTime="0" Speed="15" HitDot="E_Body" ArtRes="hum_fly_001"/>	
+	<EffectData ID="10025" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="zhangfeiluodi1"/>
+	<EffectData ID="10026" Name="" Audio="" Dot="E_Body" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="zhangfeiluodi2"/>
+	<EffectData ID="10027" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="zhangfeiluodi3"/>
+	<EffectData ID="10028" Name="" Audio="" Dot="E_RWeapon_Base" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="zhangfeiluodi4"/>
+	<EffectData ID="10029" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="2" ArtRes="liubeiluodi1"/>
+	<EffectData ID="10030" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="xiahoujiepugong1"/>
+	<EffectData ID="10031" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="xiahoujiepugong2"/>
+	<EffectData ID="10032" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="xiahoujiepugong3"/>
+	<EffectData ID="10033" Name="" Audio="" Dot="E_Body" EffectType="1" Save="0" Bind="1" BindRotate="1" LiveTime="1" ArtRes="xiahoujiezhuangshan"/>
+	<EffectData ID="10034" Name="" Audio="" Dot="E_Body" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="xiahoujieliedi1"/>
+	<EffectData ID="10035" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="2" ArtRes="xiahoujieliedi2"/>
+	<EffectData ID="10036" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="zhangfeilianzhao1"/>
+	<EffectData ID="10037" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="zhangfeilianzhao2"/>
+	<EffectData ID="10038" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="zhangfeilianzhao3"/>
+	<EffectData ID="10039" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="zhangfeilianzhao4"/>
+	<EffectData ID="10040" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="6" ArtRes="zhugeliangsuibing"/>
+	<EffectData ID="10041" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="2" ArtRes="zhugeliangluodi"/>
+	<EffectData ID="10042" Name="" Audio="" Dot="E_Body" EffectType="1" Save="0" Bind="1" BindRotate="1" LiveTime="1" ArtRes="zhugeliangpugong1_Hurt"/>
+	<EffectData ID="10043" Name="" Audio="" Dot="E_Body" EffectType="1" Save="0" Bind="1" BindRotate="1" LiveTime="1" ArtRes="zhugeliangpugong2_Hurt"/>
+	<EffectData ID="10044" Name="" Audio="" Dot="E_Body" EffectType="4" Save="0" Bind="0" BindRotate="1" LiveTime="0" Speed="13" HitDot="E_Body" ArtRes="zhugeliangpugong1"/>
+	<EffectData ID="10045" Name="" Audio="" Dot="E_Body" EffectType="4" Save="0" Bind="0" BindRotate="1" LiveTime="0" Speed="13" HitDot="E_Body" ArtRes="zhugeliangpugong2"/>
+	<EffectData ID="10046" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="2" ArtRes="xiahoujiechongjibo"/>
+	<EffectData ID="10047" Name="" Audio="" Dot="E_Body" EffectType="1" Save="0" Bind="1" BindRotate="1" LiveTime="1" ArtRes="biaoxue_hurt"/>
+	<EffectData ID="10048" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="1" BindRotate="1" LiveTime="1" ArtRes="biaoxue_hurt2"/>
+	<EffectData ID="10049" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="3" ArtRes="xiahoujiechongjibo"/>
+	<EffectData ID="10050" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="0" LiveTime="3" ArtRes="xiahoujiehuoyu"/>
+	<EffectData ID="10051" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="1" ArtRes="xiaoqiaozhiliao"/>
+	<EffectData ID="10052" Name="" Audio="" Dot="E_Foot" EffectType="1" Save="0" Bind="0" BindRotate="1" LiveTime="5" ArtRes="xiaoqiaodazhao"/>
+</EffectDatas>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 被2011 rel. 2 sp1 (wangxm) 使用XMLSpy vxuxian编辑的 (http://www.altova.com) by -->
+<!--
+Level:等级
+Prop1：属性1 一个人开启
+Prop2：属性2 两个人开启
+Prop3：属性3 三个人开启
+KeyProp1：核心属性 特定武将开启
+KeyProp2：核心属性 特定武将开启
+KeyProp3：核心属性 特定武将开启
+KeyHero1： 特定武将开启
+KeyHero2： 特定武将开启
+KeyHero3： 特定武将开启
+-->
+<!--阵法数据 -->
+<TacticsDatas>
+	<TacticsData ID="1" Name="鱼鳞阵" Desc="刘备" Skill="1011" Level="5" Prop1="1004" Prop2="1104" Prop3="1204" KeyProp1="2001" KeyProp2="2002" KeyProp3="2003"/>
+	<TacticsData ID="2" Name="长蛇阵" Desc="张飞" Skill="1017" Level="5" Prop1="1005" Prop2="1105" Prop3="1205" KeyProp1="2004" KeyProp2="2005" KeyProp3="2006"/>
+	<TacticsData ID="3" Name="鱼鳞阵" Desc="少年刘备" Skill="1011" Level="2" Prop1="1001" Prop2="1101" Prop3="1201" KeyProp1="2007" KeyProp2="2008" KeyProp3="2009"/>
+	<TacticsData ID="4" Name="玄襄阵" Desc="少年张飞" Skill="1017" Level="2" Prop1="1001" Prop2="1101" Prop3="1201" KeyProp1="2010" KeyProp2="2011" KeyProp3="2012"/>
+	<TacticsData ID="5" Name="锋矢阵" Desc="中山靖王" Skill="1011" Level="4" Prop1="1003" Prop2="1103" Prop3="1203" KeyProp1="2013" KeyProp2="2014" KeyProp3="2015"/>
+	<TacticsData ID="6" Name="方圆阵" Desc="张苞" Skill="1017" Level="4" Prop1="1003" Prop2="1103" Prop3="1203" KeyProp1="2016" KeyProp2="2017" KeyProp3="2018"/>
+	<TacticsData ID="7" Name="玄襄阵" Desc="夏侯杰" Skill="1017" Level="2" Prop1="1001" Prop2="1101" Prop3="1201" KeyProp1="2019" KeyProp2="2020" KeyProp3="2021"/>
+</TacticsDatas>

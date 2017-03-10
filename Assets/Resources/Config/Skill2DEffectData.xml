@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Skill2DEffectDatas>
+	<Skill2DEffectData ID="1001" TextureBack="2DEffectBack1"  TextureHead="2DEffectHead1"  HeadTime="0.2" TextureText="2DEffectText1" TextDelayTime="0.4" TextTime="0.1" LiveTime="1.3"/>
+</Skill2DEffectDatas>	

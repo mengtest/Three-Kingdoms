@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 被2011 rel. 2 sp1 (wangxm) 使用XMLSpy vxuxian编辑的 (http://www.altova.com) by -->
+<!--
+Desc:描述
+Count：数量
+Prop：属性
+Value：属性值
+-->
+<!--阵法数据 -->
+<TacticsPropDatas>
+	<TacticsPropData ID="1001" Desc="上阵1个武将【主将】攻击+100" Count="1" Prop="Atk" Value="100"/>
+	<TacticsPropData ID="1002" Desc="上阵1个武将【主将】攻击+200" Count="1" Prop="Atk" Value="200"/>
+	<TacticsPropData ID="1003" Desc="上阵1个武将【主将】攻击+300" Count="1" Prop="Atk" Value="300"/>
+	<TacticsPropData ID="1004" Desc="上阵1个武将【主将】攻击+400" Count="1" Prop="Atk" Value="400"/>
+	<TacticsPropData ID="1005" Desc="上阵1个武将【主将】攻击+500" Count="1" Prop="Atk" Value="500"/>
+	<TacticsPropData ID="1101" Desc="上阵2个武将【主将】血量+500" Count="2" Prop="HP" Value="500"/>
+	<TacticsPropData ID="1102" Desc="上阵2个武将【主将】血量+800" Count="2" Prop="HP" Value="800"/>
+	<TacticsPropData ID="1103" Desc="上阵2个武将【主将】血量+1100" Count="2" Prop="HP" Value="1100"/>
+	<TacticsPropData ID="1104" Desc="上阵2个武将【主将】血量+1400" Count="2" Prop="HP" Value="1400"/>
+	<TacticsPropData ID="1105" Desc="上阵2个武将【主将】血量+1700" Count="2" Prop="HP" Value="1700"/>
+	<TacticsPropData ID="1201" Desc="上阵3个武将【主将】防御+50" Count="3" Prop="Def" Value="50"/>
+	<TacticsPropData ID="1202" Desc="上阵3个武将【主将】防御+100" Count="3" Prop="Def" Value="100"/>
+	<TacticsPropData ID="1203" Desc="上阵3个武将【主将】防御+150" Count="3" Prop="Def" Value="150"/>
+	<TacticsPropData ID="1204" Desc="上阵3个武将【主将】防御+200" Count="3" Prop="Def" Value="200"/>
+	<TacticsPropData ID="1205" Desc="上阵3个武将【主将】防御+300" Count="3" Prop="Def" Value="300"/>
+	<TacticsPropData ID="2001" Desc="张飞上阵【主将】攻击+1400" Hero="1002" Prop="Atk" Value="1400"/>
+	<TacticsPropData ID="2002" Desc="少年张飞上阵【主将】血量+1400" Hero="1003" Prop="HP" Value="1400"/>
+	<TacticsPropData ID="2003" Desc="张苞上阵【主将】防御+800" Hero="1006" Prop="Def" Value="800"/>
+	<TacticsPropData ID="2004" Desc="刘备上阵【主将】攻击+800" Hero="1001" Prop="Atk" Value="800"/>
+	<TacticsPropData ID="2005" Desc="关羽上阵【主将】血量+1800" Hero="2001" Prop="HP" Value="1800"/>
+	<TacticsPropData ID="2006" Desc="赵云上阵【主将】防御+600" Hero="2002" Prop="Def" Value="600"/>
+	<TacticsPropData ID="2007" Desc="少年关羽上阵【主将】攻击+400" Hero="2003" Prop="Atk" Value="400"/>
+	<TacticsPropData ID="2008" Desc="少年张飞上阵【主将】血量+600" Hero="1004" Prop="HP" Value="600"/>
+	<TacticsPropData ID="2009" Desc="少年赵云上阵【主将】防御+200" Hero="2004" Prop="Def" Value="200"/>
+	<TacticsPropData ID="2010" Desc="少年关羽上阵【主将】攻击+400" Hero="2003" Prop="Atk" Value="400"/>
+	<TacticsPropData ID="2011" Desc="少年刘备上阵【主将】血量+600" Hero="1003" Prop="HP" Value="600"/>
+	<TacticsPropData ID="2012" Desc="张夫人上阵【主将】防御+200" Hero="2005" Prop="Def" Value="200"/>
+	<TacticsPropData ID="2013" Desc="汉灵帝上阵【主将】攻击+400" Hero="2006" Prop="Atk" Value="400"/>
+	<TacticsPropData ID="2014" Desc="汉少帝上阵【主将】血量+600" Hero="2007" Prop="HP" Value="600"/>
+	<TacticsPropData ID="2015" Desc="汉献帝上阵【主将】防御+200" Hero="2008" Prop="Def" Value="200"/>
+	<TacticsPropData ID="2016" Desc="张飞上阵【主将】攻击+800" Hero="1002" Prop="Atk" Value="800"/>
+	<TacticsPropData ID="2017" Desc="关兴上阵【主将】血量+1300" Hero="2009" Prop="HP" Value="1300"/>
+	<TacticsPropData ID="2018" Desc="诸葛亮上阵【主将】防御+1000" Hero="2010" Prop="Def" Value="1000"/>	
+	<TacticsPropData ID="2019" Desc="曹操上阵【主将】攻击+300" Hero="2011" Prop="Atk" Value="300"/>
+	<TacticsPropData ID="2020" Desc="夏侯惇上阵【主将】血量+800" Hero="2012" Prop="HP" Value="800"/>
+	<TacticsPropData ID="2021" Desc="张飞上阵【主将】防御-1000" Hero="1002" Prop="Def" Value="-1000"/>	
+</TacticsPropDatas>

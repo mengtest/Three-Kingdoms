@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- ************************* -->
+<!-- 根据血量放技能 Type:0, Para1:血量 Para2:技能ID Para3:血量 Para4:技能Id -->
+<!-- *************************  -->
+
+<BossAIDatas>
+	<BossAIData ID="1001" Type="0" Para1="0.8" Para2="1034" Para3="0.4" Para4="1035"/>
+</BossAIDatas>

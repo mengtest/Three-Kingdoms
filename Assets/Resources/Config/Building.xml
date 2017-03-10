@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!-- 被2011 rel. 2 sp1 (wangxm) 使用XMLSpy vxuxian编辑的 (http://www.altova.com) by -->
+<!--建筑配置文件-->
+<!--BuildingID：建筑ID  1：钱庄，3：采石场，4：伐木场，5：水晶作坊，6：练兵场，7：商店（不能升级）-->
+<!--Desc：描述-->
+<!--Level：等级  最大99级-->
+<!--Capital1：升级所需金币-->
+<!--Capital3：升级所需石头-->
+<!--Capital4：升级所需木头-->
+<!--Capital5：升级所需水晶-->
+<!--OutputType：产出资源类型-->
+<!--OutputValue：产出资源量，每分钟产出-->
+<!--MaxCapacity：最大储量（练兵场为训练时限，）-->
+<!--CoolTime：冷却时间,单位秒。-->
+<Object>
+	<Property ID="1" BuildingID="1" Desc="money" Level="1" Capital1="100" Capital3="10" Capital4="20" Capital5="30" OutputType="1" OutputValue="6 " MaxCapacity="1440 " CoolTime="100 "/>
+	<Property ID="2" BuildingID="1" Desc="money" Level="2" Capital1="150" Capital3="15" Capital4="30" Capital5="45" OutputType="1" OutputValue="8 " MaxCapacity="1872 " CoolTime="115 "/>
+	<Property ID="3" BuildingID="1" Desc="money" Level="3" Capital1="225" Capital3="22" Capital4="45" Capital5="67" OutputType="1" OutputValue="10 " MaxCapacity="2415 " CoolTime="135 "/>
+	<Property ID="4" BuildingID="1" Desc="money" Level="4" Capital1="337" Capital3="33" Capital4="67" Capital5="100" OutputType="1" OutputValue="13 " MaxCapacity="3091 " CoolTime="158 "/>
+	<Property ID="5" BuildingID="1" Desc="money" Level="5" Capital1="505" Capital3="49" Capital4="100" Capital5="150" OutputType="1" OutputValue="16 " MaxCapacity="3926 " CoolTime="186 "/>
+	<Property ID="6" BuildingID="1" Desc="money" Level="6" Capital1="757" Capital3="73" Capital4="150" Capital5="225" OutputType="1" OutputValue="21 " MaxCapacity="4946 " CoolTime="220 "/>
+	<Property ID="7" BuildingID="1" Desc="money" Level="7" Capital1="1135" Capital3="109" Capital4="225" Capital5="337" OutputType="1" OutputValue="26 " MaxCapacity="6183 " CoolTime="265 "/>
+	<Property ID="8" BuildingID="1" Desc="money" Level="8" Capital1="1702" Capital3="163" Capital4="337" Capital5="505" OutputType="1" OutputValue="32 " MaxCapacity="7667 " CoolTime="320 "/>
+	<Property ID="9" BuildingID="1" Desc="money" Level="9" Capital1="2553" Capital3="244" Capital4="505" Capital5="757" OutputType="1" OutputValue="39 " MaxCapacity="9430 " CoolTime="391 "/>
+	<Property ID="10" BuildingID="1" Desc="money" Level="10" Capital1="3829" Capital3="366" Capital4="757" Capital5="1135" OutputType="1" OutputValue="48 " MaxCapacity="11505 " CoolTime="480 "/>
+	<Property ID="11" BuildingID="1" Desc="money" Level="11" Capital1="5360" Capital3="512" Capital4="1059" Capital5="1589" OutputType="1" OutputValue="58 " MaxCapacity="13921 " CoolTime="554 "/>
+	<Property ID="12" BuildingID="1" Desc="money" Level="12" Capital1="7504" Capital3="716" Capital4="1482" Capital5="2224" OutputType="1" OutputValue="70 " MaxCapacity="16705 " CoolTime="647 "/>
+	<Property ID="13" BuildingID="1" Desc="money" Level="13" Capital1="10505" Capital3="1002" Capital4="2074" Capital5="3113" OutputType="1" OutputValue="83 " MaxCapacity="19879 " CoolTime="761 "/>
+	<Property ID="14" BuildingID="1" Desc="money" Level="14" Capital1="14707" Capital3="1402" Capital4="2903" Capital5="4358" OutputType="1" OutputValue="98 " MaxCapacity="23457 " CoolTime="903 "/>
+	<Property ID="15" BuildingID="1" Desc="money" Level="15" Capital1="20589" Capital3="1962" Capital4="4064" Capital5="6101" OutputType="1" OutputValue="114 " MaxCapacity="27445 " CoolTime="1081 "/>
+	<Property ID="16" BuildingID="1" Desc="money" Level="16" Capital1="28824" Capital3="2746" Capital4="5689" Capital5="8541" OutputType="1" OutputValue="133 " MaxCapacity="31836 " CoolTime="1304 "/>
+	<Property ID="17" BuildingID="1" Desc="money" Level="17" Capital1="40353" Capital3="3844" Capital4="7964" Capital5="11957" OutputType="1" OutputValue="153 " MaxCapacity="36611 " CoolTime="1588 "/>
+	<Property ID="18" BuildingID="1" Desc="money" Level="18" Capital1="56494" Capital3="5381" Capital4="11149" Capital5="16739" OutputType="1" OutputValue="174 " MaxCapacity="41737 " CoolTime="1949 "/>
+	<Property ID="19" BuildingID="1" Desc="money" Level="19" Capital1="79091" Capital3="7533" Capital4="15608" Capital5="23434" OutputType="1" OutputValue="197 " MaxCapacity="47163 " CoolTime="2415 "/>
+	<Property ID="20" BuildingID="1" Desc="money" Level="20" Capital1="110727" Capital3="10546" Capital4="21851" Capital5="32807" OutputType="1" OutputValue="220 " MaxCapacity="52822 " CoolTime="3020 "/>
+	<Property ID="21" BuildingID="1" Desc="money" Level="21" Capital1="143945" Capital3="13709" Capital4="28406" Capital5="42649" OutputType="1" OutputValue="244 " MaxCapacity="58632 " CoolTime="3535 "/>
+	<Property ID="22" BuildingID="1" Desc="money" Level="22" Capital1="187128" Capital3="17821" Capital4="36927" Capital5="55443" OutputType="1" OutputValue="269 " MaxCapacity="64496 " CoolTime="4179 "/>
+	<Property ID="23" BuildingID="1" Desc="money" Level="23" Capital1="243266" Capital3="23167" Capital4="48005" Capital5="72075" OutputType="1" OutputValue="293 " MaxCapacity="70300 " CoolTime="4983 "/>
+	<Property ID="24" BuildingID="1" Desc="money" Level="24" Capital1="316245" Capital3="30117" Capital4="62406" Capital5="93697" OutputType="1" OutputValue="316 " MaxCapacity="75924 " CoolTime="5999 "/>
+	<Property ID="25" BuildingID="1" Desc="money" Level="25" Capital1="411118" Capital3="39152" Capital4="81127" Capital5="121806" OutputType="1" OutputValue="338 " MaxCapacity="81239 " CoolTime="7289 "/>
+	<Property ID="26" BuildingID="1" Desc="money" Level="26" Capital1="534453" Capital3="50897" Capital4="105465" Capital5="158347" OutputType="1" OutputValue="359 " MaxCapacity="86113 " CoolTime="8937 "/>
+	<Property ID="27" BuildingID="1" Desc="money" Level="27" Capital1="694788" Capital3="66166" Capital4="137104" Capital5="205851" OutputType="1" OutputValue="377 " MaxCapacity="90419 " CoolTime="11066 "/>
+	<Property ID="28" BuildingID="1" Desc="money" Level="28" Capital1="903224" Capital3="86015" Capital4="178235" Capital5="267606" OutputType="1" OutputValue="392 " MaxCapacity="94036 " CoolTime="13832 "/>
+	<Property ID="29" BuildingID="1" Desc="money" Level="29" Capital1="1174191" Capital3="111819" Capital4="231705" Capital5="347887" OutputType="1" OutputValue="404 " MaxCapacity="96857 " CoolTime="17460 "/>
+	<Property ID="30" BuildingID="1" Desc="money" Level="30" Capital1="1526448" Capital3="145364" Capital4="301216" Capital5="452253" OutputType="1" OutputValue="412 " MaxCapacity="98794 " CoolTime="22251 "/>
+	<Property ID="31" BuildingID="1" Desc="money" Level="31" Capital1="1679092" Capital3="159900" Capital4="331337" Capital5="497478" OutputType="1" OutputValue="416 " MaxCapacity="99782 " CoolTime="24235 "/>
+	<Property ID="32" BuildingID="1" Desc="money" Level="32" Capital1="2014910" Capital3="191880" Capital4="397604" Capital5="596973" OutputType="1" OutputValue="420 " MaxCapacity="100780 " CoolTime="28791 "/>
+	<Property ID="33" BuildingID="1" Desc="money" Level="33" Capital1="2417892" Capital3="230256" Capital4="477124" Capital5="716367" OutputType="1" OutputValue="424 " MaxCapacity="101788 " CoolTime="34207 "/>
+	<Property ID="34" BuildingID="1" Desc="money" Level="34" Capital1="2901470" Capital3="276307" Capital4="572548" Capital5="859640" OutputType="1" OutputValue="428 " MaxCapacity="102805 " CoolTime="40646 "/>
+	<Property ID="35" BuildingID="1" Desc="money" Level="35" Capital1="3481764" Capital3="331568" Capital4="687057" Capital5="1031568" OutputType="1" OutputValue="433 " MaxCapacity="103833 " CoolTime="48291 "/>
+	<Property ID="36" BuildingID="1" Desc="money" Level="36" Capital1="4178116" Capital3="397881" Capital4="824468" Capital5="1237881" OutputType="1" OutputValue="437 " MaxCapacity="104872 " CoolTime="57379 "/>
+	<Property ID="37" BuildingID="1" Desc="money" Level="37" Capital1="5013739" Capital3="477457" Capital4="989361" Capital5="1485457" OutputType="1" OutputValue="441 " MaxCapacity="105921 " CoolTime="68168 "/>
+	<Property ID="38" BuildingID="1" Desc="money" Level="38" Capital1="6016486" Capital3="572948" Capital4="1187233" Capital5="1782548" OutputType="1" OutputValue="446 " MaxCapacity="106980 " CoolTime="80994 "/>
+	<Property ID="39" BuildingID="1" Desc="money" Level="39" Capital1="7219783" Capital3="687537" Capital4="1424679" Capital5="2139057" OutputType="1" OutputValue="450 " MaxCapacity="108050 " CoolTime="96221 "/>
+	<Property ID="40" BuildingID="1" Desc="money" Level="40" Capital1="8663739" Capital3="825044" Capital4="1709614" Capital5="2566868" OutputType="1" OutputValue="455 " MaxCapacity="109130 " CoolTime="114322 "/>
+	<Property ID="41" BuildingID="3" Desc="stone" Level="1" Capital1="30" Capital3="100" Capital4="20" Capital5="10" OutputType="3" OutputValue="6 " MaxCapacity="1440 " CoolTime="100 "/>
+	<Property ID="42" BuildingID="3" Desc="stone" Level="2" Capital1="45" Capital3="150" Capital4="30" Capital5="15" OutputType="3" OutputValue="8 " MaxCapacity="1872 " CoolTime="115 "/>
+	<Property ID="43" BuildingID="3" Desc="stone" Level="3" Capital1="67" Capital3="225" Capital4="45" Capital5="22" OutputType="3" OutputValue="10 " MaxCapacity="2415 " CoolTime="135 "/>
+	<Property ID="44" BuildingID="3" Desc="stone" Level="4" Capital1="100" Capital3="337" Capital4="67" Capital5="33" OutputType="3" OutputValue="13 " MaxCapacity="3091 " CoolTime="158 "/>
+	<Property ID="45" BuildingID="3" Desc="stone" Level="5" Capital1="150" Capital3="505" Capital4="100" Capital5="49" OutputType="3" OutputValue="16 " MaxCapacity="3926 " CoolTime="186 "/>
+	<Property ID="46" BuildingID="3" Desc="stone" Level="6" Capital1="225" Capital3="757" Capital4="150" Capital5="73" OutputType="3" OutputValue="21 " MaxCapacity="4946 " CoolTime="220 "/>
+	<Property ID="47" BuildingID="3" Desc="stone" Level="7" Capital1="337" Capital3="1135" Capital4="225" Capital5="109" OutputType="3" OutputValue="26 " MaxCapacity="6183 " CoolTime="265 "/>
+	<Property ID="48" BuildingID="3" Desc="stone" Level="8" Capital1="505" Capital3="1702" Capital4="337" Capital5="163" OutputType="3" OutputValue="32 " MaxCapacity="7667 " CoolTime="320 "/>
+	<Property ID="49" BuildingID="3" Desc="stone" Level="9" Capital1="757" Capital3="2553" Capital4="505" Capital5="244" OutputType="3" OutputValue="39 " MaxCapacity="9430 " CoolTime="391 "/>
+	<Property ID="50" BuildingID="3" Desc="stone" Level="10" Capital1="1135" Capital3="3829" Capital4="757" Capital5="366" OutputType="3" OutputValue="48 " MaxCapacity="11505 " CoolTime="480 "/>
+	<Property ID="51" BuildingID="3" Desc="stone" Level="11" Capital1="1589" Capital3="5360" Capital4="1059" Capital5="512" OutputType="3" OutputValue="58 " MaxCapacity="13921 " CoolTime="554 "/>
+	<Property ID="52" BuildingID="3" Desc="stone" Level="12" Capital1="2224" Capital3="7504" Capital4="1482" Capital5="716" OutputType="3" OutputValue="70 " MaxCapacity="16705 " CoolTime="647 "/>
+	<Property ID="53" BuildingID="3" Desc="stone" Level="13" Capital1="3113" Capital3="10505" Capital4="2074" Capital5="1002" OutputType="3" OutputValue="83 " MaxCapacity="19879 " CoolTime="761 "/>
+	<Property ID="54" BuildingID="3" Desc="stone" Level="14" Capital1="4358" Capital3="14707" Capital4="2903" Capital5="1402" OutputType="3" OutputValue="98 " MaxCapacity="23457 " CoolTime="903 "/>
+	<Property ID="55" BuildingID="3" Desc="stone" Level="15" Capital1="6101" Capital3="20589" Capital4="4064" Capital5="1962" OutputType="3" OutputValue="114 " MaxCapacity="27445 " CoolTime="1081 "/>
+	<Property ID="56" BuildingID="3" Desc="stone" Level="16" Capital1="8541" Capital3="28824" Capital4="5689" Capital5="2746" OutputType="3" OutputValue="133 " MaxCapacity="31836 " CoolTime="1304 "/>
+	<Property ID="57" BuildingID="3" Desc="stone" Level="17" Capital1="11957" Capital3="40353" Capital4="7964" Capital5="3844" OutputType="3" OutputValue="153 " MaxCapacity="36611 " CoolTime="1588 "/>
+	<Property ID="58" BuildingID="3" Desc="stone" Level="18" Capital1="16739" Capital3="56494" Capital4="11149" Capital5="5381" OutputType="3" OutputValue="174 " MaxCapacity="41737 " CoolTime="1949 "/>
+	<Property ID="59" BuildingID="3" Desc="stone" Level="19" Capital1="23434" Capital3="79091" Capital4="15608" Capital5="7533" OutputType="3" OutputValue="197 " MaxCapacity="47163 " CoolTime="2415 "/>
+	<Property ID="60" BuildingID="3" Desc="stone" Level="20" Capital1="32807" Capital3="110727" Capital4="21851" Capital5="10546" OutputType="3" OutputValue="220 " MaxCapacity="52822 " CoolTime="3020 "/>
+	<Property ID="61" BuildingID="3" Desc="stone" Level="21" Capital1="42649" Capital3="143945" Capital4="28406" Capital5="13709" OutputType="3" OutputValue="244 " MaxCapacity="58632 " CoolTime="3535 "/>
+	<Property ID="62" BuildingID="3" Desc="stone" Level="22" Capital1="55443" Capital3="187128" Capital4="36927" Capital5="17821" OutputType="3" OutputValue="269 " MaxCapacity="64496 " CoolTime="4179 "/>
+	<Property ID="63" BuildingID="3" Desc="stone" Level="23" Capital1="72075" Capital3="243266" Capital4="48005" Capital5="23167" OutputType="3" OutputValue="293 " MaxCapacity="70300 " CoolTime="4983 "/>
+	<Property ID="64" BuildingID="3" Desc="stone" Level="24" Capital1="93697" Capital3="316245" Capital4="62406" Capital5="30117" OutputType="3" OutputValue="316 " MaxCapacity="75924 " CoolTime="5999 "/>
+	<Property ID="65" BuildingID="3" Desc="stone" Level="25" Capital1="121806" Capital3="411118" Capital4="81127" Capital5="39152" OutputType="3" OutputValue="338 " MaxCapacity="81239 " CoolTime="7289 "/>
+	<Property ID="66" BuildingID="3" Desc="stone" Level="26" Capital1="158347" Capital3="534453" Capital4="105465" Capital5="50897" OutputType="3" OutputValue="359 " MaxCapacity="86113 " CoolTime="8937 "/>
+	<Property ID="67" BuildingID="3" Desc="stone" Level="27" Capital1="205851" Capital3="694788" Capital4="137104" Capital5="66166" OutputType="3" OutputValue="377 " MaxCapacity="90419 " CoolTime="11066 "/>
+	<Property ID="68" BuildingID="3" Desc="stone" Level="28" Capital1="267606" Capital3="903224" Capital4="178235" Capital5="86015" OutputType="3" OutputValue="392 " MaxCapacity="94036 " CoolTime="13832 "/>
+	<Property ID="69" BuildingID="3" Desc="stone" Level="29" Capital1="347887" Capital3="1174191" Capital4="231705" Capital5="111819" OutputType="3" OutputValue="404 " MaxCapacity="96857 " CoolTime="17460 "/>
+	<Property ID="70" BuildingID="3" Desc="stone" Level="30" Capital1="452253" Capital3="1526448" Capital4="301216" Capital5="145364" OutputType="3" OutputValue="412 " MaxCapacity="98794 " CoolTime="22251 "/>
+	<Property ID="71" BuildingID="3" Desc="stone" Level="31" Capital1="497478" Capital3="1679092" Capital4="331337" Capital5="159900" OutputType="3" OutputValue="416 " MaxCapacity="99782 " CoolTime="24235 "/>
+	<Property ID="72" BuildingID="3" Desc="stone" Level="32" Capital1="596973" Capital3="2014910" Capital4="397604" Capital5="191880" OutputType="3" OutputValue="420 " MaxCapacity="100780 " CoolTime="28791 "/>
+	<Property ID="73" BuildingID="3" Desc="stone" Level="33" Capital1="716367" Capital3="2417892" Capital4="477124" Capital5="230256" OutputType="3" OutputValue="424 " MaxCapacity="101788 " CoolTime="34207 "/>
+	<Property ID="74" BuildingID="3" Desc="stone" Level="34" Capital1="859640" Capital3="2901470" Capital4="572548" Capital5="276307" OutputType="3" OutputValue="428 " MaxCapacity="102805 " CoolTime="40646 "/>
+	<Property ID="75" BuildingID="3" Desc="stone" Level="35" Capital1="1031568" Capital3="3481764" Capital4="687057" Capital5="331568" OutputType="3" OutputValue="433 " MaxCapacity="103833 " CoolTime="48291 "/>
+	<Property ID="76" BuildingID="3" Desc="stone" Level="36" Capital1="1237881" Capital3="4178116" Capital4="824468" Capital5="397881" OutputType="3" OutputValue="437 " MaxCapacity="104872 " CoolTime="57379 "/>
+	<Property ID="77" BuildingID="3" Desc="stone" Level="37" Capital1="1485457" Capital3="5013739" Capital4="989361" Capital5="477457" OutputType="3" OutputValue="441 " MaxCapacity="105921 " CoolTime="68168 "/>
+	<Property ID="78" BuildingID="3" Desc="stone" Level="38" Capital1="1782548" Capital3="6016486" Capital4="1187233" Capital5="572948" OutputType="3" OutputValue="446 " MaxCapacity="106980 " CoolTime="80994 "/>
+	<Property ID="79" BuildingID="3" Desc="stone" Level="39" Capital1="2139057" Capital3="7219783" Capital4="1424679" Capital5="687537" OutputType="3" OutputValue="450 " MaxCapacity="108050 " CoolTime="96221 "/>
+	<Property ID="80" BuildingID="3" Desc="stone" Level="40" Capital1="2566868" Capital3="8663739" Capital4="1709614" Capital5="825044" OutputType="3" OutputValue="455 " MaxCapacity="109130 " CoolTime="114322 "/>
+	<Property ID="81" BuildingID="4" Desc="timber" Level="1" Capital1="30" Capital3="20" Capital4="100" Capital5="10" OutputType="4" OutputValue="6 " MaxCapacity="1440 " CoolTime="100 "/>
+	<Property ID="82" BuildingID="4" Desc="timber" Level="2" Capital1="45" Capital3="30" Capital4="150" Capital5="15" OutputType="4" OutputValue="8 " MaxCapacity="1872 " CoolTime="115 "/>
+	<Property ID="83" BuildingID="4" Desc="timber" Level="3" Capital1="67" Capital3="45" Capital4="225" Capital5="22" OutputType="4" OutputValue="10 " MaxCapacity="2415 " CoolTime="135 "/>
+	<Property ID="84" BuildingID="4" Desc="timber" Level="4" Capital1="100" Capital3="67" Capital4="337" Capital5="33" OutputType="4" OutputValue="13 " MaxCapacity="3091 " CoolTime="158 "/>
+	<Property ID="85" BuildingID="4" Desc="timber" Level="5" Capital1="150" Capital3="100" Capital4="505" Capital5="49" OutputType="4" OutputValue="16 " MaxCapacity="3926 " CoolTime="186 "/>
+	<Property ID="86" BuildingID="4" Desc="timber" Level="6" Capital1="225" Capital3="150" Capital4="757" Capital5="73" OutputType="4" OutputValue="21 " MaxCapacity="4946 " CoolTime="220 "/>
+	<Property ID="87" BuildingID="4" Desc="timber" Level="7" Capital1="337" Capital3="225" Capital4="1135" Capital5="109" OutputType="4" OutputValue="26 " MaxCapacity="6183 " CoolTime="265 "/>
+	<Property ID="88" BuildingID="4" Desc="timber" Level="8" Capital1="505" Capital3="337" Capital4="1702" Capital5="163" OutputType="4" OutputValue="32 " MaxCapacity="7667 " CoolTime="320 "/>
+	<Property ID="89" BuildingID="4" Desc="timber" Level="9" Capital1="757" Capital3="505" Capital4="2553" Capital5="244" OutputType="4" OutputValue="39 " MaxCapacity="9430 " CoolTime="391 "/>
+	<Property ID="90" BuildingID="4" Desc="timber" Level="10" Capital1="1135" Capital3="757" Capital4="3829" Capital5="366" OutputType="4" OutputValue="48 " MaxCapacity="11505 " CoolTime="480 "/>
+	<Property ID="91" BuildingID="4" Desc="timber" Level="11" Capital1="1589" Capital3="1059" Capital4="5360" Capital5="512" OutputType="4" OutputValue="58 " MaxCapacity="13921 " CoolTime="554 "/>
+	<Property ID="92" BuildingID="4" Desc="timber" Level="12" Capital1="2224" Capital3="1482" Capital4="7504" Capital5="716" OutputType="4" OutputValue="70 " MaxCapacity="16705 " CoolTime="647 "/>
+	<Property ID="93" BuildingID="4" Desc="timber" Level="13" Capital1="3113" Capital3="2074" Capital4="10505" Capital5="1002" OutputType="4" OutputValue="83 " MaxCapacity="19879 " CoolTime="761 "/>
+	<Property ID="94" BuildingID="4" Desc="timber" Level="14" Capital1="4358" Capital3="2903" Capital4="14707" Capital5="1402" OutputType="4" OutputValue="98 " MaxCapacity="23457 " CoolTime="903 "/>
+	<Property ID="95" BuildingID="4" Desc="timber" Level="15" Capital1="6101" Capital3="4064" Capital4="20589" Capital5="1962" OutputType="4" OutputValue="114 " MaxCapacity="27445 " CoolTime="1081 "/>
+	<Property ID="96" BuildingID="4" Desc="timber" Level="16" Capital1="8541" Capital3="5689" Capital4="28824" Capital5="2746" OutputType="4" OutputValue="133 " MaxCapacity="31836 " CoolTime="1304 "/>
+	<Property ID="97" BuildingID="4" Desc="timber" Level="17" Capital1="11957" Capital3="7964" Capital4="40353" Capital5="3844" OutputType="4" OutputValue="153 " MaxCapacity="36611 " CoolTime="1588 "/>
+	<Property ID="98" BuildingID="4" Desc="timber" Level="18" Capital1="16739" Capital3="11149" Capital4="56494" Capital5="5381" OutputType="4" OutputValue="174 " MaxCapacity="41737 " CoolTime="1949 "/>
+	<Property ID="99" BuildingID="4" Desc="timber" Level="19" Capital1="23434" Capital3="15608" Capital4="79091" Capital5="7533" OutputType="4" OutputValue="197 " MaxCapacity="47163 " CoolTime="2415 "/>
+	<Property ID="100" BuildingID="4" Desc="timber" Level="20" Capital1="32807" Capital3="21851" Capital4="110727" Capital5="10546" OutputType="4" OutputValue="220 " MaxCapacity="52822 " CoolTime="3020 "/>
+	<Property ID="101" BuildingID="4" Desc="timber" Level="21" Capital1="42649" Capital3="28406" Capital4="143945" Capital5="13709" OutputType="4" OutputValue="244 " MaxCapacity="58632 " CoolTime="3535 "/>
+	<Property ID="102" BuildingID="4" Desc="timber" Level="22" Capital1="55443" Capital3="36927" Capital4="187128" Capital5="17821" OutputType="4" OutputValue="269 " MaxCapacity="64496 " CoolTime="4179 "/>
+	<Property ID="103" BuildingID="4" Desc="timber" Level="23" Capital1="72075" Capital3="48005" Capital4="243266" Capital5="23167" OutputType="4" OutputValue="293 " MaxCapacity="70300 " CoolTime="4983 "/>
+	<Property ID="104" BuildingID="4" Desc="timber" Level="24" Capital1="93697" Capital3="62406" Capital4="316245" Capital5="30117" OutputType="4" OutputValue="316 " MaxCapacity="75924 " CoolTime="5999 "/>
+	<Property ID="105" BuildingID="4" Desc="timber" Level="25" Capital1="121806" Capital3="81127" Capital4="411118" Capital5="39152" OutputType="4" OutputValue="338 " MaxCapacity="81239 " CoolTime="7289 "/>
+	<Property ID="106" BuildingID="4" Desc="timber" Level="26" Capital1="158347" Capital3="105465" Capital4="534453" Capital5="50897" OutputType="4" OutputValue="359 " MaxCapacity="86113 " CoolTime="8937 "/>
+	<Property ID="107" BuildingID="4" Desc="timber" Level="27" Capital1="205851" Capital3="137104" Capital4="694788" Capital5="66166" OutputType="4" OutputValue="377 " MaxCapacity="90419 " CoolTime="11066 "/>
+	<Property ID="108" BuildingID="4" Desc="timber" Level="28" Capital1="267606" Capital3="178235" Capital4="903224" Capital5="86015" OutputType="4" OutputValue="392 " MaxCapacity="94036 " CoolTime="13832 "/>
+	<Property ID="109" BuildingID="4" Desc="timber" Level="29" Capital1="347887" Capital3="231705" Capital4="1174191" Capital5="111819" OutputType="4" OutputValue="404 " MaxCapacity="96857 " CoolTime="17460 "/>
+	<Property ID="110" BuildingID="4" Desc="timber" Level="30" Capital1="452253" Capital3="301216" Capital4="1526448" Capital5="145364" OutputType="4" OutputValue="412 " MaxCapacity="98794 " CoolTime="22251 "/>
+	<Property ID="111" BuildingID="4" Desc="timber" Level="31" Capital1="497478" Capital3="331337" Capital4="1679092" Capital5="159900" OutputType="4" OutputValue="416 " MaxCapacity="99782 " CoolTime="24235 "/>
+	<Property ID="112" BuildingID="4" Desc="timber" Level="32" Capital1="596973" Capital3="397604" Capital4="2014910" Capital5="191880" OutputType="4" OutputValue="420 " MaxCapacity="100780 " CoolTime="28791 "/>
+	<Property ID="113" BuildingID="4" Desc="timber" Level="33" Capital1="716367" Capital3="477124" Capital4="2417892" Capital5="230256" OutputType="4" OutputValue="424 " MaxCapacity="101788 " CoolTime="34207 "/>
+	<Property ID="114" BuildingID="4" Desc="timber" Level="34" Capital1="859640" Capital3="572548" Capital4="2901470" Capital5="276307" OutputType="4" OutputValue="428 " MaxCapacity="102805 " CoolTime="40646 "/>
+	<Property ID="115" BuildingID="4" Desc="timber" Level="35" Capital1="1031568" Capital3="687057" Capital4="3481764" Capital5="331568" OutputType="4" OutputValue="433 " MaxCapacity="103833 " CoolTime="48291 "/>
+	<Property ID="116" BuildingID="4" Desc="timber" Level="36" Capital1="1237881" Capital3="824468" Capital4="4178116" Capital5="397881" OutputType="4" OutputValue="437 " MaxCapacity="104872 " CoolTime="57379 "/>
+	<Property ID="117" BuildingID="4" Desc="timber" Level="37" Capital1="1485457" Capital3="989361" Capital4="5013739" Capital5="477457" OutputType="4" OutputValue="441 " MaxCapacity="105921 " CoolTime="68168 "/>
+	<Property ID="118" BuildingID="4" Desc="timber" Level="38" Capital1="1782548" Capital3="1187233" Capital4="6016486" Capital5="572948" OutputType="4" OutputValue="446 " MaxCapacity="106980 " CoolTime="80994 "/>
+	<Property ID="119" BuildingID="4" Desc="timber" Level="39" Capital1="2139057" Capital3="1424679" Capital4="7219783" Capital5="687537" OutputType="4" OutputValue="450 " MaxCapacity="108050 " CoolTime="96221 "/>
+	<Property ID="120" BuildingID="4" Desc="timber" Level="40" Capital1="2566868" Capital3="1709614" Capital4="8663739" Capital5="825044" OutputType="4" OutputValue="455 " MaxCapacity="109130 " CoolTime="114322 "/>
+	<Property ID="121" BuildingID="5" Desc="crystal" Level="1" Capital1="30" Capital3="10" Capital4="20" Capital5="100" OutputType="5" OutputValue="6 " MaxCapacity="1440 " CoolTime="100 "/>
+	<Property ID="122" BuildingID="5" Desc="crystal" Level="2" Capital1="45" Capital3="15" Capital4="30" Capital5="150" OutputType="5" OutputValue="8 " MaxCapacity="1872 " CoolTime="115 "/>
+	<Property ID="123" BuildingID="5" Desc="crystal" Level="3" Capital1="67" Capital3="22" Capital4="45" Capital5="225" OutputType="5" OutputValue="10 " MaxCapacity="2415 " CoolTime="135 "/>
+	<Property ID="124" BuildingID="5" Desc="crystal" Level="4" Capital1="100" Capital3="33" Capital4="67" Capital5="337" OutputType="5" OutputValue="13 " MaxCapacity="3091 " CoolTime="158 "/>
+	<Property ID="125" BuildingID="5" Desc="crystal" Level="5" Capital1="150" Capital3="49" Capital4="100" Capital5="505" OutputType="5" OutputValue="16 " MaxCapacity="3926 " CoolTime="186 "/>
+	<Property ID="126" BuildingID="5" Desc="crystal" Level="6" Capital1="225" Capital3="73" Capital4="150" Capital5="757" OutputType="5" OutputValue="21 " MaxCapacity="4946 " CoolTime="220 "/>
+	<Property ID="127" BuildingID="5" Desc="crystal" Level="7" Capital1="337" Capital3="109" Capital4="225" Capital5="1135" OutputType="5" OutputValue="26 " MaxCapacity="6183 " CoolTime="265 "/>
+	<Property ID="128" BuildingID="5" Desc="crystal" Level="8" Capital1="505" Capital3="163" Capital4="337" Capital5="1702" OutputType="5" OutputValue="32 " MaxCapacity="7667 " CoolTime="320 "/>
+	<Property ID="129" BuildingID="5" Desc="crystal" Level="9" Capital1="757" Capital3="244" Capital4="505" Capital5="2553" OutputType="5" OutputValue="39 " MaxCapacity="9430 " CoolTime="391 "/>
+	<Property ID="130" BuildingID="5" Desc="crystal" Level="10" Capital1="1135" Capital3="366" Capital4="757" Capital5="3829" OutputType="5" OutputValue="48 " MaxCapacity="11505 " CoolTime="480 "/>
+	<Property ID="131" BuildingID="5" Desc="crystal" Level="11" Capital1="1589" Capital3="512" Capital4="1059" Capital5="5360" OutputType="5" OutputValue="58 " MaxCapacity="13921 " CoolTime="554 "/>
+	<Property ID="132" BuildingID="5" Desc="crystal" Level="12" Capital1="2224" Capital3="716" Capital4="1482" Capital5="7504" OutputType="5" OutputValue="70 " MaxCapacity="16705 " CoolTime="647 "/>
+	<Property ID="133" BuildingID="5" Desc="crystal" Level="13" Capital1="3113" Capital3="1002" Capital4="2074" Capital5="10505" OutputType="5" OutputValue="83 " MaxCapacity="19879 " CoolTime="761 "/>
+	<Property ID="134" BuildingID="5" Desc="crystal" Level="14" Capital1="4358" Capital3="1402" Capital4="2903" Capital5="14707" OutputType="5" OutputValue="98 " MaxCapacity="23457 " CoolTime="903 "/>
+	<Property ID="135" BuildingID="5" Desc="crystal" Level="15" Capital1="6101" Capital3="1962" Capital4="4064" Capital5="20589" OutputType="5" OutputValue="114 " MaxCapacity="27445 " CoolTime="1081 "/>
+	<Property ID="136" BuildingID="5" Desc="crystal" Level="16" Capital1="8541" Capital3="2746" Capital4="5689" Capital5="28824" OutputType="5" OutputValue="133 " MaxCapacity="31836 " CoolTime="1304 "/>
+	<Property ID="137" BuildingID="5" Desc="crystal" Level="17" Capital1="11957" Capital3="3844" Capital4="7964" Capital5="40353" OutputType="5" OutputValue="153 " MaxCapacity="36611 " CoolTime="1588 "/>
+	<Property ID="138" BuildingID="5" Desc="crystal" Level="18" Capital1="16739" Capital3="5381" Capital4="11149" Capital5="56494" OutputType="5" OutputValue="174 " MaxCapacity="41737 " CoolTime="1949 "/>
+	<Property ID="139" BuildingID="5" Desc="crystal" Level="19" Capital1="23434" Capital3="7533" Capital4="15608" Capital5="79091" OutputType="5" OutputValue="197 " MaxCapacity="47163 " CoolTime="2415 "/>
+	<Property ID="140" BuildingID="5" Desc="crystal" Level="20" Capital1="32807" Capital3="10546" Capital4="21851" Capital5="110727" OutputType="5" OutputValue="220 " MaxCapacity="52822 " CoolTime="3020 "/>
+	<Property ID="141" BuildingID="5" Desc="crystal" Level="21" Capital1="42649" Capital3="13709" Capital4="28406" Capital5="143945" OutputType="5" OutputValue="244 " MaxCapacity="58632 " CoolTime="3535 "/>
+	<Property ID="142" BuildingID="5" Desc="crystal" Level="22" Capital1="55443" Capital3="17821" Capital4="36927" Capital5="187128" OutputType="5" OutputValue="269 " MaxCapacity="64496 " CoolTime="4179 "/>
+	<Property ID="143" BuildingID="5" Desc="crystal" Level="23" Capital1="72075" Capital3="23167" Capital4="48005" Capital5="243266" OutputType="5" OutputValue="293 " MaxCapacity="70300 " CoolTime="4983 "/>
+	<Property ID="144" BuildingID="5" Desc="crystal" Level="24" Capital1="93697" Capital3="30117" Capital4="62406" Capital5="316245" OutputType="5" OutputValue="316 " MaxCapacity="75924 " CoolTime="5999 "/>
+	<Property ID="145" BuildingID="5" Desc="crystal" Level="25" Capital1="121806" Capital3="39152" Capital4="81127" Capital5="411118" OutputType="5" OutputValue="338 " MaxCapacity="81239 " CoolTime="7289 "/>
+	<Property ID="146" BuildingID="5" Desc="crystal" Level="26" Capital1="158347" Capital3="50897" Capital4="105465" Capital5="534453" OutputType="5" OutputValue="359 " MaxCapacity="86113 " CoolTime="8937 "/>
+	<Property ID="147" BuildingID="5" Desc="crystal" Level="27" Capital1="205851" Capital3="66166" Capital4="137104" Capital5="694788" OutputType="5" OutputValue="377 " MaxCapacity="90419 " CoolTime="11066 "/>
+	<Property ID="148" BuildingID="5" Desc="crystal" Level="28" Capital1="267606" Capital3="86015" Capital4="178235" Capital5="903224" OutputType="5" OutputValue="392 " MaxCapacity="94036 " CoolTime="13832 "/>
+	<Property ID="149" BuildingID="5" Desc="crystal" Level="29" Capital1="347887" Capital3="111819" Capital4="231705" Capital5="1174191" OutputType="5" OutputValue="404 " MaxCapacity="96857 " CoolTime="17460 "/>
+	<Property ID="150" BuildingID="5" Desc="crystal" Level="30" Capital1="452253" Capital3="145364" Capital4="301216" Capital5="1526448" OutputType="5" OutputValue="412 " MaxCapacity="98794 " CoolTime="22251 "/>
+	<Property ID="151" BuildingID="5" Desc="crystal" Level="31" Capital1="497478" Capital3="159900" Capital4="331337" Capital5="1679092" OutputType="5" OutputValue="416 " MaxCapacity="99782 " CoolTime="24235 "/>
+	<Property ID="152" BuildingID="5" Desc="crystal" Level="32" Capital1="596973" Capital3="191880" Capital4="397604" Capital5="2014910" OutputType="5" OutputValue="420 " MaxCapacity="100780 " CoolTime="28791 "/>
+	<Property ID="153" BuildingID="5" Desc="crystal" Level="33" Capital1="716367" Capital3="230256" Capital4="477124" Capital5="2417892" OutputType="5" OutputValue="424 " MaxCapacity="101788 " CoolTime="34207 "/>
+	<Property ID="154" BuildingID="5" Desc="crystal" Level="34" Capital1="859640" Capital3="276307" Capital4="572548" Capital5="2901470" OutputType="5" OutputValue="428 " MaxCapacity="102805 " CoolTime="40646 "/>
+	<Property ID="155" BuildingID="5" Desc="crystal" Level="35" Capital1="1031568" Capital3="331568" Capital4="687057" Capital5="3481764" OutputType="5" OutputValue="433 " MaxCapacity="103833 " CoolTime="48291 "/>
+	<Property ID="156" BuildingID="5" Desc="crystal" Level="36" Capital1="1237881" Capital3="397881" Capital4="824468" Capital5="4178116" OutputType="5" OutputValue="437 " MaxCapacity="104872 " CoolTime="57379 "/>
+	<Property ID="157" BuildingID="5" Desc="crystal" Level="37" Capital1="1485457" Capital3="477457" Capital4="989361" Capital5="5013739" OutputType="5" OutputValue="441 " MaxCapacity="105921 " CoolTime="68168 "/>
+	<Property ID="158" BuildingID="5" Desc="crystal" Level="38" Capital1="1782548" Capital3="572948" Capital4="1187233" Capital5="6016486" OutputType="5" OutputValue="446 " MaxCapacity="106980 " CoolTime="80994 "/>
+	<Property ID="159" BuildingID="5" Desc="crystal" Level="39" Capital1="2139057" Capital3="687537" Capital4="1424679" Capital5="7219783" OutputType="5" OutputValue="450 " MaxCapacity="108050 " CoolTime="96221 "/>
+	<Property ID="160" BuildingID="5" Desc="crystal" Level="40" Capital1="2566868" Capital3="825044" Capital4="1709614" Capital5="8663739" OutputType="5" OutputValue="455 " MaxCapacity="109130 " CoolTime="114322 "/>
+	<Property ID="161" BuildingID="6" Desc="exp" Level="1" Capital1="30" Capital3="30" Capital4="30" Capital5="30" OutputType="5" OutputValue="6 " MaxCapacity="60" CoolTime="100 "/>
+	<Property ID="162" BuildingID="6" Desc="exp" Level="2" Capital1="45" Capital3="45" Capital4="45" Capital5="45" OutputType="5" OutputValue="8 " MaxCapacity="60" CoolTime="115 "/>
+	<Property ID="163" BuildingID="6" Desc="exp" Level="3" Capital1="67" Capital3="67" Capital4="67" Capital5="67" OutputType="5" OutputValue="10 " MaxCapacity="60" CoolTime="135 "/>
+	<Property ID="164" BuildingID="6" Desc="exp" Level="4" Capital1="100" Capital3="100" Capital4="100" Capital5="100" OutputType="5" OutputValue="13 " MaxCapacity="60" CoolTime="158 "/>
+	<Property ID="165" BuildingID="6" Desc="exp" Level="5" Capital1="150" Capital3="150" Capital4="150" Capital5="150" OutputType="5" OutputValue="16 " MaxCapacity="60" CoolTime="186 "/>
+	<Property ID="166" BuildingID="6" Desc="exp" Level="6" Capital1="225" Capital3="225" Capital4="225" Capital5="225" OutputType="5" OutputValue="21 " MaxCapacity="120" CoolTime="220 "/>
+	<Property ID="167" BuildingID="6" Desc="exp" Level="7" Capital1="337" Capital3="337" Capital4="337" Capital5="337" OutputType="5" OutputValue="26 " MaxCapacity="120" CoolTime="265 "/>
+	<Property ID="168" BuildingID="6" Desc="exp" Level="8" Capital1="505" Capital3="505" Capital4="505" Capital5="505" OutputType="5" OutputValue="32 " MaxCapacity="120" CoolTime="320 "/>
+	<Property ID="169" BuildingID="6" Desc="exp" Level="9" Capital1="757" Capital3="757" Capital4="757" Capital5="757" OutputType="5" OutputValue="39 " MaxCapacity="120" CoolTime="391 "/>
+	<Property ID="170" BuildingID="6" Desc="exp" Level="10" Capital1="1135" Capital3="1135" Capital4="1135" Capital5="1135" OutputType="5" OutputValue="48 " MaxCapacity="120" CoolTime="480 "/>
+	<Property ID="171" BuildingID="6" Desc="exp" Level="11" Capital1="1589" Capital3="1589" Capital4="1589" Capital5="1589" OutputType="5" OutputValue="58 " MaxCapacity="180" CoolTime="554 "/>
+	<Property ID="172" BuildingID="6" Desc="exp" Level="12" Capital1="2224" Capital3="2224" Capital4="2224" Capital5="2224" OutputType="5" OutputValue="70 " MaxCapacity="180" CoolTime="647 "/>
+	<Property ID="173" BuildingID="6" Desc="exp" Level="13" Capital1="3113" Capital3="3113" Capital4="3113" Capital5="3113" OutputType="5" OutputValue="83 " MaxCapacity="180" CoolTime="761 "/>
+	<Property ID="174" BuildingID="6" Desc="exp" Level="14" Capital1="4358" Capital3="4358" Capital4="4358" Capital5="4358" OutputType="5" OutputValue="98 " MaxCapacity="180" CoolTime="903 "/>
+	<Property ID="175" BuildingID="6" Desc="exp" Level="15" Capital1="6101" Capital3="6101" Capital4="6101" Capital5="6101" OutputType="5" OutputValue="114 " MaxCapacity="180" CoolTime="1081 "/>
+	<Property ID="176" BuildingID="6" Desc="exp" Level="16" Capital1="8541" Capital3="8541" Capital4="8541" Capital5="8541" OutputType="5" OutputValue="133 " MaxCapacity="240" CoolTime="1304 "/>
+	<Property ID="177" BuildingID="6" Desc="exp" Level="17" Capital1="11957" Capital3="11957" Capital4="11957" Capital5="11957" OutputType="5" OutputValue="153 " MaxCapacity="240" CoolTime="1588 "/>
+	<Property ID="178" BuildingID="6" Desc="exp" Level="18" Capital1="16739" Capital3="16739" Capital4="16739" Capital5="16739" OutputType="5" OutputValue="174 " MaxCapacity="240" CoolTime="1949 "/>
+	<Property ID="179" BuildingID="6" Desc="exp" Level="19" Capital1="23434" Capital3="23434" Capital4="23434" Capital5="23434" OutputType="5" OutputValue="197 " MaxCapacity="240" CoolTime="2415 "/>
+	<Property ID="180" BuildingID="6" Desc="exp" Level="20" Capital1="32807" Capital3="32807" Capital4="32807" Capital5="32807" OutputType="5" OutputValue="220 " MaxCapacity="240" CoolTime="3020 "/>
+	<Property ID="181" BuildingID="6" Desc="exp" Level="21" Capital1="42649" Capital3="42649" Capital4="42649" Capital5="42649" OutputType="5" OutputValue="244 " MaxCapacity="300" CoolTime="3535 "/>
+	<Property ID="182" BuildingID="6" Desc="exp" Level="22" Capital1="55443" Capital3="55443" Capital4="55443" Capital5="55443" OutputType="5" OutputValue="269 " MaxCapacity="300" CoolTime="4179 "/>
+	<Property ID="183" BuildingID="6" Desc="exp" Level="23" Capital1="72075" Capital3="72075" Capital4="72075" Capital5="72075" OutputType="5" OutputValue="293 " MaxCapacity="300" CoolTime="4983 "/>
+	<Property ID="184" BuildingID="6" Desc="exp" Level="24" Capital1="93697" Capital3="93697" Capital4="93697" Capital5="93697" OutputType="5" OutputValue="316 " MaxCapacity="300" CoolTime="5999 "/>
+	<Property ID="185" BuildingID="6" Desc="exp" Level="25" Capital1="121806" Capital3="121806" Capital4="121806" Capital5="121806" OutputType="5" OutputValue="338 " MaxCapacity="300" CoolTime="7289 "/>
+	<Property ID="186" BuildingID="6" Desc="exp" Level="26" Capital1="158347" Capital3="158347" Capital4="158347" Capital5="158347" OutputType="5" OutputValue="359 " MaxCapacity="360" CoolTime="8937 "/>
+	<Property ID="187" BuildingID="6" Desc="exp" Level="27" Capital1="205851" Capital3="205851" Capital4="205851" Capital5="205851" OutputType="5" OutputValue="377 " MaxCapacity="360" CoolTime="11066 "/>
+	<Property ID="188" BuildingID="6" Desc="exp" Level="28" Capital1="267606" Capital3="267606" Capital4="267606" Capital5="267606" OutputType="5" OutputValue="392 " MaxCapacity="360" CoolTime="13832 "/>
+	<Property ID="189" BuildingID="6" Desc="exp" Level="29" Capital1="347887" Capital3="347887" Capital4="347887" Capital5="347887" OutputType="5" OutputValue="404 " MaxCapacity="360" CoolTime="17460 "/>
+	<Property ID="190" BuildingID="6" Desc="exp" Level="30" Capital1="452253" Capital3="452253" Capital4="452253" Capital5="452253" OutputType="5" OutputValue="412 " MaxCapacity="360" CoolTime="22251 "/>
+	<Property ID="191" BuildingID="6" Desc="exp" Level="31" Capital1="497478" Capital3="497478" Capital4="497478" Capital5="497478" OutputType="5" OutputValue="416 " MaxCapacity="420" CoolTime="24235 "/>
+	<Property ID="192" BuildingID="6" Desc="exp" Level="32" Capital1="596973" Capital3="596973" Capital4="596973" Capital5="596973" OutputType="5" OutputValue="420 " MaxCapacity="420" CoolTime="28791 "/>
+	<Property ID="193" BuildingID="6" Desc="exp" Level="33" Capital1="716367" Capital3="716367" Capital4="716367" Capital5="716367" OutputType="5" OutputValue="424 " MaxCapacity="420" CoolTime="34207 "/>
+	<Property ID="194" BuildingID="6" Desc="exp" Level="34" Capital1="859640" Capital3="859640" Capital4="859640" Capital5="859640" OutputType="5" OutputValue="428 " MaxCapacity="420" CoolTime="40646 "/>
+	<Property ID="195" BuildingID="6" Desc="exp" Level="35" Capital1="1031568" Capital3="1031568" Capital4="1031568" Capital5="1031568" OutputType="5" OutputValue="433 " MaxCapacity="420" CoolTime="48291 "/>
+	<Property ID="196" BuildingID="6" Desc="exp" Level="36" Capital1="1237881" Capital3="1237881" Capital4="1237881" Capital5="1237881" OutputType="5" OutputValue="437 " MaxCapacity="480" CoolTime="57379 "/>
+	<Property ID="197" BuildingID="6" Desc="exp" Level="37" Capital1="1485457" Capital3="1485457" Capital4="1485457" Capital5="1485457" OutputType="5" OutputValue="441 " MaxCapacity="480" CoolTime="68168 "/>
+	<Property ID="198" BuildingID="6" Desc="exp" Level="38" Capital1="1782548" Capital3="1782548" Capital4="1782548" Capital5="1782548" OutputType="5" OutputValue="446 " MaxCapacity="480" CoolTime="80994 "/>
+	<Property ID="199" BuildingID="6" Desc="exp" Level="39" Capital1="2139057" Capital3="2139057" Capital4="2139057" Capital5="2139057" OutputType="5" OutputValue="450 " MaxCapacity="480" CoolTime="96221 "/>
+	<Property ID="200" BuildingID="6" Desc="exp" Level="40" Capital1="2566868" Capital3="2566868" Capital4="2566868" Capital5="2566868" OutputType="5" OutputValue="455 " MaxCapacity="480" CoolTime="114322 "/>
+</Object>
